@@ -1594,5 +1594,205 @@
         "name": "Tech Tips",
         "url": "https://techtips.com.bd",
         "icon": "https://techtips.com.bd/favicon.ico"
+    },
+    {
+        "name": "Google Search",
+        "url": "https://www.google.com",
+        "icon": "https://www.google.com/favicon.ico"
+    },
+    {
+        "name": "Gmail",
+        "url": "https://mail.google.com",
+        "icon": "https://mail.google.com/favicon.ico"
+    },
+    {
+        "name": "Google Drive",
+        "url": "https://drive.google.com",
+        "icon": "https://www.google.com/favicon.ico"
+    },
+    {
+        "name": "Google Maps",
+        "url": "https://www.google.com/maps",
+        "icon": "https://www.google.com/favicon.ico"
+    },
+    {
+        "name": "Google Photos",
+        "url": "https://photos.google.com",
+        "icon": "https://www.google.com/favicon.ico"
+    },
+    {
+        "name": "Google Meet",
+        "url": "https://meet.google.com",
+        "icon": "https://www.google.com/favicon.ico"
+    },
+    {
+        "name": "Google Classroom",
+        "url": "https://classroom.google.com",
+        "icon": "https://www.google.com/favicon.ico"
+    },
+    {
+        "name": "Google Calendar",
+        "url": "https://calendar.google.com",
+        "icon": "https://www.google.com/favicon.ico"
+    },
+    {
+        "name": "Google Play",
+        "url": "https://play.google.com",
+        "icon": "https://play.google.com/favicon.ico"
+    },
+    {
+        "name": "Google Sites",
+        "url": "https://sites.google.com",
+        "icon": "https://www.google.com/favicon.ico"
+    },
+    {
+        "name": "Google News",
+        "url": "https://news.google.com",
+        "icon": "https://news.google.com/favicon.ico"
+    },
+    {
+        "name": "Google Scholar",
+        "url": "https://scholar.google.com",
+        "icon": "https://scholar.google.com/favicon.ico"
+    },
+    {
+        "name": "Google Translate",
+        "url": "https://translate.google.com",
+        "icon": "https://translate.google.com/favicon.ico"
+    },
+    {
+        "name": "Google Keep",
+        "url": "https://keep.google.com",
+        "icon": "https://keep.google.com/favicon.ico"
+    },
+    {
+        "name": "Google Hangouts",
+        "url": "https://hangouts.google.com",
+        "icon": "https://hangouts.google.com/favicon.ico"
+    },
+    {
+        "name": "Google Ads",
+        "url": "https://ads.google.com",
+        "icon": "https://ads.google.com/favicon.ico"
+    },
+    {
+        "name": "Google Analytics",
+        "url": "https://analytics.google.com",
+        "icon": "https://www.google.com/favicon.ico"
+    },
+    {
+        "name": "Google Docs",
+        "url": "https://docs.google.com",
+        "icon": "https://www.google.com/favicon.ico"
+    },
+    {
+        "name": "Google Sheets",
+        "url": "https://sheets.google.com",
+        "icon": "https://www.google.com/favicon.ico"
+    },
+    {
+        "name": "Google Slides",
+        "url": "https://slides.google.com",
+        "icon": "https://www.google.com/favicon.ico"
+    },
+    {
+        "name": "Google Forms",
+        "url": "https://forms.google.com",
+        "icon": "https://www.google.com/favicon.ico"
+    },
+    {
+        "name": "Google My Business",
+        "url": "https://business.google.com",
+        "icon": "https://www.google.com/favicon.ico"
+    },
+    {
+        "name": "Google Cloud",
+        "url": "https://cloud.google.com",
+        "icon": "https://cloud.google.com/favicon.ico"
+    },
+    {
+        "name": "Google Assistant",
+        "url": "https://assistant.google.com",
+        "icon": "https://www.google.com/favicon.ico"
+    },
+    {
+        "name": "Google Podcasts",
+        "url": "https://podcasts.google.com",
+        "icon": "https://www.google.com/favicon.ico"
+    },
+    {
+        "name": "Google Finance",
+        "url": "https://www.google.com/finance",
+        "icon": "https://www.google.com/favicon.ico"
+    },
+    {
+        "name": "Google Books",
+        "url": "https://books.google.com",
+        "icon": "https://www.google.com/favicon.ico"
+    },
+    {
+        "name": "Google Shopping",
+        "url": "https://shopping.google.com",
+        "icon": "https://www.google.com/favicon.ico"
+    },
+    {
+        "name": "Google Earth",
+        "url": "https://earth.google.com",
+        "icon": "https://www.google.com/favicon.ico"
+    },
+    {
+        "name": "Google Arts & Culture",
+        "url": "https://artsandculture.google.com",
+        "icon": "https://www.google.com/favicon.ico"
+    },
+    {
+        "name": "Google Fit",
+        "url": "https://fit.google.com",
+        "icon": "https://www.google.com/favicon.ico"
+    },
+    {
+        "name": "Google Duo",
+        "url": "https://duo.google.com",
+        "icon": "https://www.google.com/favicon.ico"
+    },
+    {
+        "name": "Google Pay",
+        "url": "https://pay.google.com",
+        "icon": "https://www.google.com/favicon.ico"
+    },
+    {
+        "name": "Google TV",
+        "url": "https://tv.google",
+        "icon": "https://www.google.com/favicon.ico"
+    },
+    {
+        "name": "Google Podcasts",
+        "url": "https://podcasts.google.com",
+        "icon": "https://podcasts.google.com/favicon.ico"
+    },
+    {
+        "name": "Google Trends",
+        "url": "https://trends.google.com",
+        "icon": "https://www.google.com/favicon.ico"
+    },
+    {
+        "name": "YouTube",
+        "url": "https://www.youtube.com",
+        "icon": "https://www.youtube.com/favicon.ico"
+    },
+    {
+        "name": "YouTube Music",
+        "url": "https://music.youtube.com",
+        "icon": "https://www.youtube.com/favicon.ico"
+    },
+    {
+        "name": "YouTube Kids",
+        "url": "https://www.youtubekids.com",
+        "icon": "https://www.google.com/favicon.ico"
+    },
+    {
+        "name": "YouTube Studio",
+        "url": "https://studio.youtube.com",
+        "icon": "https://www.youtube.com/favicon.ico"
     }
 ]
