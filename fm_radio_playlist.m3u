@@ -1,1 +1,7 @@
-12222
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://example.com/quran-logo.png" group-title="Islamic", Quran - Abdurrahmaan As-Sudais
+https://download.quranicaudio.com/qdc/abdurrahmaan_as_sudais/murattal/96.mp3
+#EXTINF:-1 tvg-logo="https://example.com/radio-padma-logo.png" group-title="Bangladeshi", Radio Padma
+http://cassini.shoutca.st:9109/radiopadma.mp3
+#EXTINF:-1 tvg-logo="https://example.com/sayaji-fm-logo.png" group-title="Indian", Sayaji FM
+https://sayajifm.radioca.st/stream/;?1707488287650
