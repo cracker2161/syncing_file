@@ -1,0 +1,162 @@
+
+{
+  "folders": [
+    {
+      "name": "Main Folder 1",
+      "files": [
+        {
+          "name": "Stream Live TV",
+          "url": "https://ibn-stream.netlify.app/"
+        },
+        {
+          "name": "Notepad",
+          "url": "https://example.com/mainfile2"
+        },
+        {
+          "name": "Crackpad",
+          "url": "https://sultanarabi161.github.io/live-server-/projects/crackpad.html"
+        },
+        {
+          "name": "m3u to live streaming",
+          "url": "https://sultanarabi161.github.io/live-server-/projects/m3u-link-checker.html"
+        },
+        {
+          "name": "Ask AI",
+          "url": "https://sultanarabi161.github.io/live-server-/projects/ask-ai.html"
+        },
+        {
+          "name": "Social media",
+          "url": "https://sultan-projects.netlify.app/social-media.html"
+        }
+      ],
+      "subfolders": [
+        {
+          "name": "Projects",
+          "files": [
+            {
+              "name": "Portfolio",
+              "url": "https://sultanarabi-portfolio.netlify.app/"
+            },
+            {
+              "name": "Live Code",
+              "url": "https://sultanarabi161.github.io/live-server-/projects/code-editor.html"
+            }
+          ],
+          "subfolders": []
+        },
+        {
+          "name": "Tools",
+          "files": [
+            {
+              "name": "QR Code",
+              "url": "https://example.com/qrcode"
+            },
+            {
+              "name": "Project Files",
+              "url": "https://example.com/project"
+            },
+            {
+              "name": "Files Transfer",
+              "url": "https://mega.nz/filerequest/o_tYuS3sUII"
+            }
+          ],
+          "subfolders": []
+        }
+      ]
+    },
+    {
+      "name": "Main Folder 2",
+      "files": [
+        {
+          "name": "Blog Post 1",
+          "url": "https://sultanarabi.news.blog"
+        },
+        {
+          "name": "Blog Post 2",
+          "url": "https://quran.com"
+        },
+        {
+          "name": "Raindrop",
+          "url": "https://example.com/mainfile4"
+        },
+        {
+          "name": "Public",
+          "url": "https://example.com/mainfile5"
+        },
+        {
+          "name": "Live Server",
+          "url": "https://cracker2161.github.io/github-live-server/"
+        },
+        {
+          "name": "Report on AI",
+          "url": "https://example.com/reports"
+        }
+      ],
+      "subfolders": [
+        {
+          "name": "Blog's",
+          "files": [
+            {
+              "name": "সুলতান আরাবি",
+              "url": "https://sultanarabi.news.blog"
+            },
+            {
+              "name": "কুরআন",
+              "url": "https://quran.com"
+            }
+          ],
+          "subfolders": []
+        },
+        {
+          "name": "Writers",
+          "files": [
+            {
+              "name": "Reports",
+              "url": "https://example.com/reports"
+            },
+            {
+              "name": "Summary",
+              "url": "https://example.com/summary"
+            }
+          ],
+          "subfolders": []
+        }
+      ]
+    },
+    {
+      "name": "Developer's",
+      "files": [],
+      "subfolders": [
+        {
+          "name": "About",
+          "files": [
+            {
+              "name": "Digital Card",
+              "url": "https://sultanarabi.netlify.app/"
+            },
+            {
+              "name": "Social",
+              "url": "https://example.com/analysis"
+            }
+          ],
+          "subfolders": []
+        },
+        {
+          "name": "Privacy",
+          "files": [
+            {
+              "name": "List",
+              "url": "https://example.com/reports"
+            },
+            {
+              "name": "Like",
+              "url": "https://example.com/summary"
+            }
+          ],
+          "subfolders": []
+        }
+      ]
+    }
+  ]
+}
+
