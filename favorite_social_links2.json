@@ -30,56 +30,6 @@
         "icon": "https://www.ask.com/favicon.ico"
     },
     {
-        "name": "AOL Search",
-        "url": "https://search.aol.com",
-        "icon": "https://search.aol.com/favicon.ico"
-    },
-    {
-        "name": "Yandex",
-        "url": "https://www.yandex.com",
-        "icon": "https://www.yandex.com/favicon.ico"
-    },
-    {
-        "name": "Startpage",
-        "url": "https://www.startpage.com",
-        "icon": "https://www.startpage.com/favicon.ico"
-    },
-    {
-        "name": "Qwant",
-        "url": "https://www.qwant.com",
-        "icon": "https://www.qwant.com/favicon.ico"
-    },
-    {
-        "name": "Ecosia",
-        "url": "https://www.ecosia.org",
-        "icon": "https://www.ecosia.org/favicon.ico"
-    },
-    {
-        "name": "Searx",
-        "url": "https://searx.me",
-        "icon": "https://searx.me/favicon.ico"
-    },
-    {
-        "name": "MetaGer",
-        "url": "https://metager.org",
-        "icon": "https://metager.org/favicon.ico"
-    },
-    {
-        "name": "WolframAlpha",
-        "url": "https://www.wolframalpha.com",
-        "icon": "https://www.wolframalpha.com/favicon.ico"
-    },
-    {
-        "name": "Gigablast",
-        "url": "https://gigablast.com",
-        "icon": "https://gigablast.com/favicon.ico"
-    },
-    {
-        "name": "Boardreader",
-        "url": "https://boardreader.com",
-        "icon": "https://boardreader.com/favicon.ico"
-    },
-    {
         "name": "Search Encrypt",
         "url": "https://www.searchencrypt.com",
         "icon": "https://www.searchencrypt.com/favicon.ico"
@@ -136,11 +86,6 @@
         "icon": "https://www.reddit.com/favicon.ico"
     },
     {
-        "name": "Tumblr",
-        "url": "https://www.tumblr.com",
-        "icon": "https://www.tumblr.com/favicon.ico"
-    },
-    {
         "name": "TikTok",
         "url": "https://www.tiktok.com",
         "icon": "https://www.tiktok.com/favicon.ico"
@@ -167,7 +112,7 @@
     },
     {
         "name": "Quora",
-        "url": "https://www.quora.com",
+        "url": "https://www.bn.quora.com",
         "icon": "https://www.quora.com/favicon.ico"
     },
     {
@@ -176,39 +121,9 @@
         "icon": "https://telegram.org/favicon.ico"
     },
     {
-        "name": "Vimeo",
-        "url": "https://vimeo.com",
-        "icon": "https://vimeo.com/favicon.ico"
-    },
-    {
-        "name": "Flickr",
-        "url": "https://www.flickr.com",
-        "icon": "https://www.flickr.com/favicon.ico"
-    },
-    {
-        "name": "SoundCloud",
-        "url": "https://soundcloud.com",
-        "icon": "https://soundcloud.com/favicon.ico"
-    },
-    {
         "name": "Spotify",
         "url": "https://www.spotify.com",
         "icon": "https://www.spotify.com/favicon.ico"
-    },
-    {
-        "name": "Dribbble",
-        "url": "https://dribbble.com",
-        "icon": "https://dribbble.com/favicon.ico"
-    },
-    {
-        "name": "Behance",
-        "url": "https://www.behance.net",
-        "icon": "https://www.behance.net/favicon.ico"
-    },
-    {
-        "name": "DeviantArt",
-        "url": "https://www.deviantart.com",
-        "icon": "https://www.deviantart.com/favicon.ico"
     },
     {
         "name": "Blogger",
@@ -236,114 +151,9 @@
         "icon": "https://slack.com/favicon.ico"
     },
     {
-        "name": "Patreon",
-        "url": "https://www.patreon.com",
-        "icon": "https://www.patreon.com/favicon.ico"
-    },
-    {
-        "name": "Meetup",
-        "url": "https://www.meetup.com",
-        "icon": "https://www.meetup.com/favicon.ico"
-    },
-    {
-        "name": "Xing",
-        "url": "https://www.xing.com",
-        "icon": "https://www.xing.com/favicon.ico"
-    },
-    {
-        "name": "ResearchGate",
-        "url": "https://www.researchgate.net",
-        "icon": "https://www.researchgate.net/favicon.ico"
-    },
-    {
-        "name": "Goodreads",
-        "url": "https://www.goodreads.com",
-        "icon": "https://www.goodreads.com/favicon.ico"
-    },
-    {
-        "name": "Weibo",
-        "url": "https://www.weibo.com",
-        "icon": "https://www.weibo.com/favicon.ico"
-    },
-    {
-        "name": "Flipboard",
-        "url": "https://flipboard.com",
-        "icon": "https://flipboard.com/favicon.ico"
-    },
-    {
-        "name": "Foursquare",
-        "url": "https://foursquare.com",
-        "icon": "https://foursquare.com/favicon.ico"
-    },
-    {
-        "name": "MySpace",
-        "url": "https://myspace.com",
-        "icon": "https://myspace.com/favicon.ico"
-    },
-    {
-        "name": "Mix",
-        "url": "https://mix.com",
-        "icon": "https://mix.com/favicon.ico"
-    },
-    {
-        "name": "VK",
-        "url": "https://vk.com",
-        "icon": "https://vk.com/favicon.ico"
-    },
-    {
-        "name": "LINE",
-        "url": "https://line.me",
-        "icon": "https://line.me/favicon.ico"
-    },
-    {
-        "name": "Yelp",
-        "url": "https://www.yelp.com",
-        "icon": "https://www.yelp.com/favicon.ico"
-    },
-    {
-        "name": "TripAdvisor",
-        "url": "https://www.tripadvisor.com",
-        "icon": "https://www.tripadvisor.com/favicon.ico"
-    },
-    {
-        "name": "Etsy",
-        "url": "https://www.etsy.com",
-        "icon": "https://www.etsy.com/favicon.ico"
-    },
-    {
-        "name": "Alibaba",
-        "url": "https://www.alibaba.com",
-        "icon": "https://www.alibaba.com/favicon.ico"
-    },
-    {
         "name": "Amazon",
         "url": "https://www.amazon.com",
         "icon": "https://www.amazon.com/favicon.ico"
-    },
-    {
-        "name": "eBay",
-        "url": "https://www.ebay.com",
-        "icon": "https://www.ebay.com/favicon.ico"
-    },
-    {
-        "name": "Snapdeal",
-        "url": "https://www.snapdeal.com",
-        "icon": "https://www.snapdeal.com/favicon.ico"
-    },
-    {
-        "name": "Flipkart",
-        "url": "https://www.flipkart.com",
-        "icon": "https://www.flipkart.com/favicon.ico"
-    },
-    {
-        "name": "OLX",
-        "url": "https://www.olx.com",
-        "icon": "https://www.olx.com/favicon.ico"
-    },
-    {
-        "name": "Craiglist",
-        "url": "https://www.craigslist.org",
-        "icon": "https://www.craigslist.org/favicon.ico"
     },
     {
         "name": "Zoom",
@@ -396,11 +206,6 @@
         "icon": "https://www.airtel.com.bd/favicon.ico"
     },
     {
-        "name": "FoodPanda",
-        "url": "https://www.foodpanda.com.bd",
-        "icon": "https://www.foodpanda.com.bd/favicon.ico"
-    },
-    {
         "name": "Pathao",
         "url": "https://pathao.com",
         "icon": "https://pathao.com/favicon.ico"
@@ -414,26 +219,6 @@
         "name": "Careem",
         "url": "https://www.careem.com",
         "icon": "https://www.careem.com/favicon.ico"
-    },
-    {
-        "name": "Saarc Travel",
-        "url": "https://www.saarctravel.com",
-        "icon": "https://www.saarctravel.com/favicon.ico"
-    },
-    {
-        "name": "Sheba.xyz",
-        "url": "https://sheba.xyz",
-        "icon": "https://sheba.xyz/favicon.ico"
-    },
-    {
-        "name": "Chhakka.com",
-        "url": "https://chhakka.com",
-        "icon": "https://chhakka.com/favicon.ico"
-    },
-    {
-        "name": "Bashundhara Group",
-        "url": "https://www.bashundharagroup.com",
-        "icon": "https://www.bashundharagroup.com/favicon.ico"
     },
     {
         "name": "Dhaka Tribune",
@@ -459,16 +244,6 @@
         "name": "National ID",
         "url": "https://nidw.gov.bd",
         "icon": "https://nidw.gov.bd/favicon.ico"
-    },
-    {
-        "name": "Saarc Chamber",
-        "url": "https://www.saarcchamber.org",
-        "icon": "https://www.saarcchamber.org/favicon.ico"
-    },
-    {
-        "name": "Blogger",
-        "url": "https://www.blogger.com",
-        "icon": "https://www.blogger.com/favicon.ico"
     },
     {
         "name": "Google Drive",
@@ -551,54 +326,9 @@
         "icon": "https://bitbucket.org/favicon.ico"
     },
     {
-        "name": "SourceForge",
-        "url": "https://sourceforge.net",
-        "icon": "https://sourceforge.net/favicon.ico"
-    },
-    {
-        "name": "Gitee",
-        "url": "https://gitee.com",
-        "icon": "https://gitee.com/favicon.ico"
-    },
-    {
-        "name": "Launchpad",
-        "url": "https://launchpad.net",
-        "icon": "https://launchpad.net/favicon.ico"
-    },
-    {
-        "name": "Assembla",
-        "url": "https://www.assembla.com",
-        "icon": "https://www.assembla.com/favicon.ico"
-    },
-    {
-        "name": "Beanstalk",
-        "url": "https://beanstalkapp.com",
-        "icon": "https://beanstalkapp.com/favicon.ico"
-    },
-    {
-        "name": "Phabricator",
-        "url": "https://phacility.com/phabricator/",
-        "icon": "https://phacility.com/phabricator/favicon.ico"
-    },
-    {
-        "name": "Codeberg",
-        "url": "https://codeberg.org",
-        "icon": "https://codeberg.org/favicon.ico"
-    },
-    {
-        "name": "Gogs",
-        "url": "https://gogs.io",
-        "icon": "https://gogs.io/favicon.ico"
-    },
-    {
         "name": "Gitea",
         "url": "https://gitea.io",
         "icon": "https://gitea.io/favicon.ico"
-    },
-    {
-        "name": "Savannah",
-        "url": "https://savannah.gnu.org",
-        "icon": "https://savannah.gnu.org/favicon.ico"
     },
     {
         "name": "CodeCommit",
@@ -609,26 +339,6 @@
         "name": "SourceHut",
         "url": "https://sourcehut.org",
         "icon": "https://sourcehut.org/favicon.ico"
-    },
-    {
-        "name": "NotABug",
-        "url": "https://notabug.org",
-        "icon": "https://notabug.org/favicon.ico"
-    },
-    {
-        "name": "Allura",
-        "url": "https://allura.apache.org",
-        "icon": "https://allura.apache.org/favicon.ico"
-    },
-    {
-        "name": "Fossil",
-        "url": "https://fossil-scm.org",
-        "icon": "https://fossil-scm.org/favicon.ico"
-    },
-    {
-        "name": "Kiln",
-        "url": "https://www.fogcreek.com/kiln/",
-        "icon": "https://www.fogcreek.com/kiln/favicon.ico"
     },
     {
         "name": "Netlify",
@@ -656,36 +366,6 @@
         "icon": "https://pages.github.com/favicon.ico"
     },
     {
-        "name": "Surge",
-        "url": "https://surge.sh",
-        "icon": "https://surge.sh/favicon.ico"
-    },
-    {
-        "name": "Render",
-        "url": "https://render.com",
-        "icon": "https://render.com/favicon.ico"
-    },
-    {
-        "name": "DigitalOcean App Platform",
-        "url": "https://www.digitalocean.com/products/app-platform/",
-        "icon": "https://www.digitalocean.com/favicon.ico"
-    },
-    {
-        "name": "AWS Amplify",
-        "url": "https://aws.amazon.com/amplify/",
-        "icon": "https://aws.amazon.com/favicon.ico"
-    },
-    {
-        "name": "Cloudflare Pages",
-        "url": "https://pages.cloudflare.com",
-        "icon": "https://pages.cloudflare.com/favicon.ico"
-    },
-    {
-        "name": "Glitch",
-        "url": "https://glitch.com",
-        "icon": "https://glitch.com/favicon.ico"
-    },
-    {
         "name": "CodeSandbox",
         "url": "https://codesandbox.io",
         "icon": "https://codesandbox.io/favicon.ico"
@@ -696,34 +376,9 @@
         "icon": "https://replit.com/favicon.ico"
     },
     {
-        "name": "AppFog",
-        "url": "https://www.appfog.com",
-        "icon": "https://www.appfog.com/favicon.ico"
-    },
-    {
-        "name": "Jelastic",
-        "url": "https://jelastic.com",
-        "icon": "https://jelastic.com/favicon.ico"
-    },
-    {
-        "name": "Azure Static Web Apps",
-        "url": "https://azure.microsoft.com/en-us/services/app-service/static/",
-        "icon": "https://azure.microsoft.com/favicon.ico"
-    },
-    {
-        "name": "Static.site",
-        "url": "https://static.site",
-        "icon": "https://static.site/favicon.ico"
-    },
-    {
         "name": "SiteNet",
         "url": "https://sitenet.com",
         "icon": "https://sitenet.com/favicon.ico"
-    },
-    {
-        "name": "Now.sh",
-        "url": "https://zeit.co/now",
-        "icon": "https://zeit.co/favicon.ico"
     },
     {
         "name": "Hatchbox",
@@ -739,11 +394,6 @@
         "name": "Microsoft Office",
         "url": "https://www.office.com",
         "icon": "https://www.office.com/favicon.ico"
-    },
-    {
-        "name": "Microsoft Teams",
-        "url": "https://teams.microsoft.com",
-        "icon": "https://teams.microsoft.com/favicon.ico"
     },
     {
         "name": "Azure",
@@ -835,12 +485,6 @@
         "url": "https://learn.microsoft.com",
         "icon": "https://learn.microsoft.com/favicon.ico"
     },
-
-    {
-        "name": "OpenAI",
-        "url": "https://www.openai.com",
-        "icon": "https://www.openai.com/favicon.ico"
-    },
     {
         "name": "ChatGPT",
         "url": "https://chat.openai.com",
@@ -848,13 +492,8 @@
     },
     {
         "name": "Google AI",
-        "url": "https://ai.google",
+        "url": "https://gemini.google.com",
         "icon": "https://ai.google/favicon.ico"
-    },
-    {
-        "name": "IBM Watson",
-        "url": "https://www.ibm.com/watson",
-        "icon": "https://www.ibm.com/favicon.ico"
     },
     {
         "name": "Microsoft Azure AI",
@@ -872,16 +511,6 @@
         "icon": "https://huggingface.co/favicon.ico"
     },
     {
-        "name": "TensorFlow",
-        "url": "https://www.tensorflow.org",
-        "icon": "https://www.tensorflow.org/favicon.ico"
-    },
-    {
-        "name": "Kaggle",
-        "url": "https://www.kaggle.com",
-        "icon": "https://www.kaggle.com/favicon.ico"
-    },
-    {
         "name": "DataRobot",
         "url": "https://www.datarobot.com",
         "icon": "https://www.datarobot.com/favicon.ico"
@@ -892,34 +521,9 @@
         "icon": "https://c3.ai/favicon.ico"
     },
     {
-        "name": "RunwayML",
-        "url": "https://runwayml.com",
-        "icon": "https://runwayml.com/favicon.ico"
-    },
-    {
         "name": "DeepMind",
         "url": "https://deepmind.com",
         "icon": "https://deepmind.com/favicon.ico"
-    },
-    {
-        "name": "PaddlePaddle",
-        "url": "https://www.paddlepaddle.org",
-        "icon": "https://www.paddlepaddle.org/favicon.ico"
-    },
-    {
-        "name": "Snorkel",
-        "url": "https://snorkel.org",
-        "icon": "https://snorkel.org/favicon.ico"
-    },
-    {
-        "name": "Clarifai",
-        "url": "https://www.clarifai.com",
-        "icon": "https://www.clarifai.com/favicon.ico"
-    },
-    {
-        "name": "Lobe",
-        "url": "https://www.lobe.ai",
-        "icon": "https://www.lobe.ai/favicon.ico"
     },
     {
         "name": "AI Dungeon",
@@ -941,22 +545,6 @@
         "url": "https://www.fast.ai",
         "icon": "https://www.fast.ai/favicon.ico"
     },
-
-    {
-        "name": "Among Us",
-        "url": "https://www.innersloth.com/gameAmongUs.php",
-        "icon": "https://www.innersloth.com/favicon.ico"
-    },
-    {
-        "name": "Fortnite",
-        "url": "https://www.epicgames.com/fortnite/en-US/home",
-        "icon": "https://www.epicgames.com/favicon.ico"
-    },
-    {
-        "name": "League of Legends",
-        "url": "https://www.leagueoflegends.com",
-        "icon": "https://www.leagueoflegends.com/favicon.ico"
-    },
     {
         "name": "Minecraft",
         "url": "https://www.minecraft.net",
@@ -968,85 +556,9 @@
         "icon": "https://www.roblox.com/favicon.ico"
     },
     {
-        "name": "Agar.io",
-        "url": "http://agar.io",
-        "icon": "http://agar.io/favicon.ico"
-    },
-    {
-        "name": "Slither.io",
-        "url": "http://slither.io",
-        "icon": "http://slither.io/favicon.ico"
-    },
-    {
-        "name": "Krunker.io",
-        "url": "https://krunker.io",
-        "icon": "https://krunker.io/favicon.ico"
-    },
-    {
-        "name": "Skribbl.io",
-        "url": "https://skribbl.io",
-        "icon": "https://skribbl.io/favicon.ico"
-    },
-    {
-        "name": "Little Alchemy 2",
-        "url": "https://littlealchemy2.com",
-        "icon": "https://littlealchemy2.com/favicon.ico"
-    },
-    {
-        "name": "Tetris",
-        "url": "https://tetris.com/play-tetris",
-        "icon": "https://tetris.com/favicon.ico"
-    },
-    {
-        "name": "Cookie Clicker",
-        "url": "https://orteil.dashnet.org/cookieclicker/",
-        "icon": "https://orteil.dashnet.org/favicon.ico"
-    },
-    {
-        "name": "World's Biggest Pac-Man",
-        "url": "http://www.pacman.com",
-        "icon": "http://www.pacman.com/favicon.ico"
-    },
-    {
-        "name": "Fall Guys",
-        "url": "https://www.fallguys.com",
-        "icon": "https://www.fallguys.com/favicon.ico"
-    },
-    {
-        "name": "Among Us Online",
-        "url": "https://amongus.online",
-        "icon": "https://amongus.online/favicon.ico"
-    },
-    {
-        "name": "Brawlhalla",
-        "url": "https://www.brawlhalla.com",
-        "icon": "https://www.brawlhalla.com/favicon.ico"
-    },
-
-    {
         "name": "Canva",
         "url": "https://www.canva.com",
         "icon": "https://www.canva.com/favicon.ico"
-    },
-    {
-        "name": "Trello",
-        "url": "https://trello.com",
-        "icon": "https://trello.com/favicon.ico"
-    },
-    {
-        "name": "Slack",
-        "url": "https://slack.com",
-        "icon": "https://slack.com/favicon.ico"
-    },
-    {
-        "name": "Asana",
-        "url": "https://asana.com",
-        "icon": "https://asana.com/favicon.ico"
-    },
-    {
-        "name": "Notion",
-        "url": "https://www.notion.so",
-        "icon": "https://www.notion.so/favicon.ico"
     },
     {
         "name": "Google Drive",
@@ -1064,16 +576,6 @@
         "icon": "https://www.atlassian.com/favicon.ico"
     },
     {
-        "name": "Zapier",
-        "url": "https://zapier.com",
-        "icon": "https://zapier.com/favicon.ico"
-    },
-    {
-        "name": "Figma",
-        "url": "https://www.figma.com",
-        "icon": "https://www.figma.com/favicon.ico"
-    },
-    {
         "name": "GitHub",
         "url": "https://github.com",
         "icon": "https://github.com/favicon.ico"
@@ -1089,47 +591,6 @@
         "icon": "https://code.visualstudio.com/favicon.ico"
     },
     {
-        "name": "Buffer",
-        "url": "https://buffer.com",
-        "icon": "https://buffer.com/favicon.ico"
-    },
-    {
-        "name": "Hootsuite",
-        "url": "https://hootsuite.com",
-        "icon": "https://hootsuite.com/favicon.ico"
-    },
-    {
-        "name": "Mailchimp",
-        "url": "https://mailchimp.com",
-        "icon": "https://mailchimp.com/favicon.ico"
-    },
-    {
-        "name": "SurveyMonkey",
-        "url": "https://www.surveymonkey.com",
-        "icon": "https://www.surveymonkey.com/favicon.ico"
-    },
-    {
-        "name": "Airtable",
-        "url": "https://airtable.com",
-        "icon": "https://airtable.com/favicon.ico"
-    },
-    {
-        "name": "Loom",
-        "url": "https://www.loom.com",
-        "icon": "https://www.loom.com/favicon.ico"
-    },
-    {
-        "name": "Calendly",
-        "url": "https://calendly.com",
-        "icon": "https://calendly.com/favicon.ico"
-    },
-    {
-        "name": "Miro",
-        "url": "https://miro.com",
-        "icon": "https://miro.com/favicon.ico"
-    },
-
-    {
         "name": "Netflix",
         "url": "https://www.netflix.com",
         "icon": "https://www.netflix.com/favicon.ico"
@@ -1143,11 +604,6 @@
         "name": "Amazon Prime Video",
         "url": "https://www.amazon.com/primevideo",
         "icon": "https://www.amazon.com/favicon.ico"
-    },
-    {
-        "name": "Hulu",
-        "url": "https://www.hulu.com",
-        "icon": "https://www.hulu.com/favicon.ico"
     },
     {
         "name": "Disney+",
@@ -1175,26 +631,6 @@
         "icon": "https://tidal.com/favicon.ico"
     },
     {
-        "name": "SoundCloud",
-        "url": "https://soundcloud.com",
-        "icon": "https://soundcloud.com/favicon.ico"
-    },
-    {
-        "name": "Vimeo",
-        "url": "https://vimeo.com",
-        "icon": "https://vimeo.com/favicon.ico"
-    },
-    {
-        "name": "Twitch",
-        "url": "https://www.twitch.tv",
-        "icon": "https://www.twitch.tv/favicon.ico"
-    },
-    {
-        "name": "Pandora",
-        "url": "https://www.pandora.com",
-        "icon": "https://www.pandora.com/favicon.ico"
-    },
-    {
         "name": "Deezer",
         "url": "https://www.deezer.com",
         "icon": "https://www.deezer.com/favicon.ico"
@@ -1203,16 +639,6 @@
         "name": "FuboTV",
         "url": "https://www.fubo.tv",
         "icon": "https://www.fubo.tv/favicon.ico"
-    },
-    {
-        "name": "Peacock",
-        "url": "https://www.peacocktv.com",
-        "icon": "https://www.peacocktv.com/favicon.ico"
-    },
-    {
-        "name": "Paramount+",
-        "url": "https://www.paramountplus.com",
-        "icon": "https://www.paramountplus.com/favicon.ico"
     },
     {
         "name": "Crunchyroll",
@@ -1229,14 +655,6 @@
         "url": "https://www.bbc.co.uk/iplayer",
         "icon": "https://www.bbc.co.uk/favicon.ico"
     },
-    {
-        "name": "Google Play Movies & TV",
-        "url": "https://play.google.com/store/movies",
-        "icon": "https://play.google.com/favicon.ico"
-    },
-    
-    
-    
     {
         "name": "ESPN",
         "url": "https://www.espn.com",
@@ -1257,45 +675,16 @@
         "url": "https://www.cbssports.com",
         "icon": "https://www.cbssports.com/favicon.ico"
     },
-    {
-        "name": "Bleacher Report",
-        "url": "https://bleacherreport.com",
-        "icon": "https://bleacherreport.com/favicon.ico"
-    },
+    
     {
         "name": "Fox Sports",
         "url": "https://www.foxsports.com",
         "icon": "https://www.foxsports.com/favicon.ico"
     },
     {
-        "name": "Sports Illustrated",
-        "url": "https://www.si.com",
-        "icon": "https://www.si.com/favicon.ico"
-    },
-    {
-        "name": "The Athletic",
-        "url": "https://theathletic.com",
-        "icon": "https://theathletic.com/favicon.ico"
-    },
-    {
-        "name": "NBA",
-        "url": "https://www.nba.com",
-        "icon": "https://www.nba.com/favicon.ico"
-    },
-    {
-        "name": "NFL",
-        "url": "https://www.nfl.com",
-        "icon": "https://www.nfl.com/favicon.ico"
-    },
-    {
         "name": "MLB",
         "url": "https://www.mlb.com",
         "icon": "https://www.mlb.com/favicon.ico"
-    },
-    {
-        "name": "NHL",
-        "url": "https://www.nhl.com",
-        "icon": "https://www.nhl.com/favicon.ico"
     },
     {
         "name": "FIFA",
@@ -1308,176 +697,9 @@
         "icon": "https://www.ufc.com/favicon.ico"
     },
     {
-        "name": "WWE",
-        "url": "https://www.wwe.com",
-        "icon": "https://www.wwe.com/favicon.ico"
-    },
-    {
-        "name": "Olympics",
-        "url": "https://olympics.com",
-        "icon": "https://olympics.com/favicon.ico"
-    },
-    {
         "name": "ESPN Fantasy Sports",
         "url": "https://fantasy.espn.com",
         "icon": "https://fantasy.espn.com/favicon.ico"
-    },
-    {
-        "name": "DraftKings",
-        "url": "https://www.draftkings.com",
-        "icon": "https://www.draftkings.com/favicon.ico"
-    },
-    {
-        "name": "FanDuel",
-        "url": "https://www.fanduel.com",
-        "icon": "https://www.fanduel.com/favicon.ico"
-    },
-    {
-        "name": "Golf.com",
-        "url": "https://www.golf.com",
-        "icon": "https://www.golf.com/favicon.ico"
-    },
-    {
-        "name": "Tennis.com",
-        "url": "https://www.tennis.com",
-        "icon": "https://www.tennis.com/favicon.ico"
-    },
-
-    {
-        "name": "Spotify",
-        "url": "https://www.spotify.com",
-        "icon": "https://www.spotify.com/favicon.ico"
-    },
-    {
-        "name": "Apple Music",
-        "url": "https://music.apple.com",
-        "icon": "https://music.apple.com/favicon.ico"
-    },
-    {
-        "name": "Amazon Music",
-        "url": "https://music.amazon.com",
-        "icon": "https://music.amazon.com/favicon.ico"
-    },
-    {
-        "name": "YouTube Music",
-        "url": "https://music.youtube.com",
-        "icon": "https://music.youtube.com/favicon.ico"
-    },
-    {
-        "name": "Tidal",
-        "url": "https://tidal.com",
-        "icon": "https://tidal.com/favicon.ico"
-    },
-    {
-        "name": "Deezer",
-        "url": "https://www.deezer.com",
-        "icon": "https://www.deezer.com/favicon.ico"
-    },
-    {
-        "name": "SoundCloud",
-        "url": "https://soundcloud.com",
-        "icon": "https://soundcloud.com/favicon.ico"
-    },
-    {
-        "name": "Pandora",
-        "url": "https://www.pandora.com",
-        "icon": "https://www.pandora.com/favicon.ico"
-    },
-    {
-        "name": "iHeartRadio",
-        "url": "https://www.iheart.com",
-        "icon": "https://www.iheart.com/favicon.ico"
-    },
-    {
-        "name": "Napster",
-        "url": "https://www.napster.com",
-        "icon": "https://www.napster.com/favicon.ico"
-    },
-    {
-        "name": "Bandcamp",
-        "url": "https://bandcamp.com",
-        "icon": "https://bandcamp.com/favicon.ico"
-    },
-    {
-        "name": "Mixcloud",
-        "url": "https://www.mixcloud.com",
-        "icon": "https://www.mixcloud.com/favicon.ico"
-    },
-    {
-        "name": "8tracks",
-        "url": "https://8tracks.com",
-        "icon": "https://8tracks.com/favicon.ico"
-    },
-    {
-        "name": "JioSaavn",
-        "url": "https://www.jiosaavn.com",
-        "icon": "https://www.jiosaavn.com/favicon.ico"
-    },
-    {
-        "name": "Gaana",
-        "url": "https://gaana.com",
-        "icon": "https://gaana.com/favicon.ico"
-    },
-    {
-        "name": "Shazam",
-        "url": "https://www.shazam.com",
-        "icon": "https://www.shazam.com/favicon.ico"
-    },
-    {
-        "name": "Soundtrap",
-        "url": "https://www.soundtrap.com",
-        "icon": "https://www.soundtrap.com/favicon.ico"
-    },
-    {
-        "name": "Audiomack",
-        "url": "https://www.audiomack.com",
-        "icon": "https://www.audiomack.com/favicon.ico"
-    },
-
-    {
-        "name": "BDNews24",
-        "url": "https://www.bdnews24.com",
-        "icon": "https://www.bdnews24.com/favicon.ico"
-    },
-    {
-        "name": "The Daily Star",
-        "url": "https://www.thedailystar.net",
-        "icon": "https://www.thedailystar.net/favicon.ico"
-    },
-    {
-        "name": "Prothom Alo",
-        "url": "https://www.prothomalo.com",
-        "icon": "https://www.prothomalo.com/favicon.ico"
-    },
-    {
-        "name": "Dhaka Tribune",
-        "url": "https://www.dhakatribune.com",
-        "icon": "https://www.dhakatribune.com/favicon.ico"
-    },
-    {
-        "name": "Bangladesh Pratidin",
-        "url": "https://www.bd-pratidin.com",
-        "icon": "https://www.bd-pratidin.com/favicon.ico"
-    },
-    {
-        "name": "New Age",
-        "url": "https://www.newagebd.net",
-        "icon": "https://www.newagebd.net/favicon.ico"
-    },
-    {
-        "name": "The Independent",
-        "url": "https://www.theindependentbd.com",
-        "icon": "https://www.theindependentbd.com/favicon.ico"
-    },
-    {
-        "name": "Bengal News",
-        "url": "https://www.bengalnews.com",
-        "icon": "https://www.bengalnews.com/favicon.ico"
-    },
-    {
-        "name": "Kaler Kantho",
-        "url": "https://www.kalerkantho.com",
-        "icon": "https://www.kalerkantho.com/favicon.ico"
     },
     {
         "name": "Bangla Tribune",
@@ -1551,11 +773,6 @@
         "icon": "https://w3layouts.com/favicon.ico"
     },
     {
-        "name": "IT News Bangladesh",
-        "url": "https://itnewsbd.com",
-        "icon": "https://itnewsbd.com/favicon.ico"
-    },
-    {
         "name": "Bangla Tech",
         "url": "https://banglatech.com",
         "icon": "https://banglatech.com/favicon.ico"
@@ -1570,36 +787,7 @@
         "url": "https://www.techners.com",
         "icon": "https://www.techners.com/favicon.ico"
     },
-    {
-        "name": "How to Bangla",
-        "url": "https://howtobangla.com",
-        "icon": "https://howtobangla.com/favicon.ico"
-    },
-    {
-        "name": "BD Tech News",
-        "url": "https://bdtechnews.com",
-        "icon": "https://bdtechnews.com/favicon.ico"
-    },
-    {
-        "name": "Tech Info",
-        "url": "https://www.techinfo.com.bd",
-        "icon": "https://www.techinfo.com.bd/favicon.ico"
-    },
-    {
-        "name": "GadgetBD",
-        "url": "https://gadgetbd.com",
-        "icon": "https://gadgetbd.com/favicon.ico"
-    },
-    {
-        "name": "Tech Tips",
-        "url": "https://techtips.com.bd",
-        "icon": "https://techtips.com.bd/favicon.ico"
-    },
-    {
-        "name": "Google Search",
-        "url": "https://www.google.com",
-        "icon": "https://www.google.com/favicon.ico"
-    },
+    
     {
         "name": "Gmail",
         "url": "https://mail.google.com",
@@ -1676,11 +864,6 @@
         "icon": "https://ads.google.com/favicon.ico"
     },
     {
-        "name": "Google Analytics",
-        "url": "https://analytics.google.com",
-        "icon": "https://www.google.com/favicon.ico"
-    },
-    {
         "name": "Google Docs",
         "url": "https://docs.google.com",
         "icon": "https://www.google.com/favicon.ico"
@@ -1701,11 +884,6 @@
         "icon": "https://www.google.com/favicon.ico"
     },
     {
-        "name": "Google My Business",
-        "url": "https://business.google.com",
-        "icon": "https://www.google.com/favicon.ico"
-    },
-    {
         "name": "Google Cloud",
         "url": "https://cloud.google.com",
         "icon": "https://cloud.google.com/favicon.ico"
@@ -1713,11 +891,6 @@
     {
         "name": "Google Assistant",
         "url": "https://assistant.google.com",
-        "icon": "https://www.google.com/favicon.ico"
-    },
-    {
-        "name": "Google Podcasts",
-        "url": "https://podcasts.google.com",
         "icon": "https://www.google.com/favicon.ico"
     },
     {
@@ -1731,28 +904,8 @@
         "icon": "https://www.google.com/favicon.ico"
     },
     {
-        "name": "Google Shopping",
-        "url": "https://shopping.google.com",
-        "icon": "https://www.google.com/favicon.ico"
-    },
-    {
         "name": "Google Earth",
         "url": "https://earth.google.com",
-        "icon": "https://www.google.com/favicon.ico"
-    },
-    {
-        "name": "Google Arts & Culture",
-        "url": "https://artsandculture.google.com",
-        "icon": "https://www.google.com/favicon.ico"
-    },
-    {
-        "name": "Google Fit",
-        "url": "https://fit.google.com",
-        "icon": "https://www.google.com/favicon.ico"
-    },
-    {
-        "name": "Google Duo",
-        "url": "https://duo.google.com",
         "icon": "https://www.google.com/favicon.ico"
     },
     {
@@ -1769,11 +922,6 @@
         "name": "Google Podcasts",
         "url": "https://podcasts.google.com",
         "icon": "https://podcasts.google.com/favicon.ico"
-    },
-    {
-        "name": "Google Trends",
-        "url": "https://trends.google.com",
-        "icon": "https://www.google.com/favicon.ico"
     },
     {
         "name": "YouTube",
