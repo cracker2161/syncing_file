@@ -1,1 +1,268 @@
 
+[
+    {
+        "name": "Google",
+        "url": "https://www.google.com"
+    },
+    {
+        "name": "Bing",
+        "url": "https://www.bing.com"
+    },
+    {
+        "name": "Brave",
+        "url": "https://search.brave.com"
+    },
+    {
+        "name": "Yahoo",
+        "url": "https://www.yahoo.com"
+    },
+    {
+        "name": "Facebook",
+        "url": "https://www.facebook.com"
+    },
+    {
+        "name": "Messenger",
+        "url": "https://www.messenger.com"
+    },
+    {
+        "name": "X",
+        "url": "https://twitter.com"
+    },
+    {
+        "name": "Pinterest",
+        "url": "https://www.pinterest.com"
+    },
+    {
+        "name": "Snapchat",
+        "url": "https://www.snapchat.com"
+    },
+    {
+        "name": "Quora",
+        "url": "https://www.quora.com"
+    },
+    {
+        "name": "GitHub",
+        "url": "https://github.com"
+    },
+    {
+        "name": "Reddit",
+        "url": "https://www.reddit.com"
+    },
+    {
+        "name": "Instagram",
+        "url": "https://www.instagram.com"
+    },
+    {
+        "name": "LinkedIn",
+        "url": "https://www.linkedin.com"
+    },
+    {
+        "name": "TikTok",
+        "url": "https://www.tiktok.com"
+    },
+    {
+        "name": "Telegram",
+        "url": "https://telegram.org"
+    },
+    {
+        "name": "Imo",
+        "url": "https://imo.im"
+    },
+    {
+        "name": "WhatsApp",
+        "url": "https://www.whatsapp.com"
+    },
+    {
+        "name": "Alapchari",
+        "url": "https://www.alapchari.com"
+    },
+    {
+        "name": "Alapcari",
+        "url": "https://www.alapcari.com"
+    },
+    {
+        "name": "ChatGPT",
+        "url": "https://chat.openai.com"
+    },
+    {
+        "name": "Copy.ai",
+        "url": "https://www.copy.ai"
+    },
+    {
+        "name": "Chatbot.com",
+        "url": "https://www.chatbot.com"
+    },
+    {
+        "name": "Fast.ai",
+        "url": "https://www.fast.ai"
+    },
+    {
+        "name": "Poe",
+        "url": "https://poe.com"
+    },
+    {
+        "name": "Ideogram",
+        "url": "https://ideogram.ai"
+    },
+    {
+        "name": "Hugging Face",
+        "url": "https://huggingface.co"
+    },
+    {
+        "name": "Gemini",
+        "url": "https://www.gemini.com"
+    },
+    {
+        "name": "Claude",
+        "url": "https://claude.ai"
+    },
+    {
+        "name": "Copilot",
+        "url": "https://github.com/features/copilot"
+    },
+    {
+        "name": "Grammarly",
+        "url": "https://www.grammarly.com"
+    },
+    {
+        "name": "YouTube",
+        "url": "https://www.youtube.com"
+    },
+    {
+        "name": "Netflix",
+        "url": "https://www.netflix.com"
+    },
+    {
+        "name": "Disney+",
+        "url": "https://www.disneyplus.com"
+    },
+    {
+        "name": "Crunchyroll",
+        "url": "https://www.crunchyroll.com"
+    },
+    {
+        "name": "Deezer",
+        "url": "https://www.deezer.com"
+    },
+    {
+        "name": "Spotify",
+        "url": "https://www.spotify.com"
+    },
+    {
+        "name": "YouTube Music",
+        "url": "https://music.youtube.com"
+    },
+    {
+        "name": "Apple Music",
+        "url": "https://music.apple.com"
+    },
+    {
+        "name": "VS Code",
+        "url": "https://vscode.dev"
+    },
+    {
+        "name": "W3 Schools",
+        "url": "https://www.w3schools.com"
+    },
+    {
+        "name": "CodeSandbox",
+        "url": "https://codesandbox.io"
+    },
+    {
+        "name": "Netlify",
+        "url": "https://www.netlify.com"
+    },
+    {
+        "name": "Vercel",
+        "url": "https://vercel.com"
+    },
+    {
+        "name": "Replit",
+        "url": "https://replit.com"
+    },
+    {
+        "name": "Google Translate",
+        "url": "https://translate.google.com"
+    },
+    {
+        "name": "Simplenote",
+        "url": "https://simplenote.com"
+    },
+    {
+        "name": "Google Keep",
+        "url": "https://keep.google.com"
+    },
+    {
+        "name": "YouTube Downloader",
+        "url": "https://youtubedownloader.com"
+    },
+    {
+        "name": "Wikipedia",
+        "url": "https://www.wikipedia.org"
+    },
+    {
+        "name": "Quran.com",
+        "url": "https://quran.com"
+    },
+    {
+        "name": "Tanzil Quran",
+        "url": "https://tanzil.net"
+    },
+    {
+        "name": "Holy Quran",
+        "url": "https://www.holyquran.com"
+    },
+    {
+        "name": "Muslim Bangla",
+        "url": "https://muslimbangla.com"
+    },
+    {
+        "name": "Hoytoba",
+        "url": "https://hoytoba.com"
+    },
+    {
+        "name": "Raindrop",
+        "url": "https://raindrop.io"
+    },
+    {
+        "name": "Mega",
+        "url": "https://mega.nz"
+    },
+    {
+        "name": "One Drive",
+        "url": "https://onedrive.live.com"
+    },
+    {
+        "name": "Google Drive",
+        "url": "https://drive.google.com"
+    },
+    {
+        "name": "Google Photos",
+        "url": "https://photos.google.com"
+    },
+    {
+        "name": "Google Docs",
+        "url": "https://docs.google.com"
+    },
+    {
+        "name": "Google Sheets",
+        "url": "https://sheets.google.com"
+    },
+    {
+        "name": "Google Slides",
+        "url": "https://slides.google.com"
+    },
+    {
+        "name": "Google Forms",
+        "url": "https://forms.google.com"
+    },
+    {
+        "name": "Google Calendar",
+        "url": "https://calendar.google.com"
+    },
+    {
+        "name": "Google Keep",
+        "url": "https://keep.google.com"
+    }
+]
+
