@@ -160,11 +160,7 @@
         "url": "https://zoom.us",
         "icon": "https://zoom.us/favicon.ico"
     },
-    {
-        "name": "Microsoft Teams",
-        "url": "https://teams.microsoft.com",
-        "icon": "https://teams.microsoft.com/favicon.ico"
-    },
+    
     {
         "name": "Skype",
         "url": "https://www.skype.com",
@@ -395,11 +391,8 @@
         "url": "https://www.office.com",
         "icon": "https://www.office.com/favicon.ico"
     },
-    {
-        "name": "Azure",
-        "url": "https://azure.microsoft.com",
-        "icon": "https://azure.microsoft.com/favicon.ico"
-    },
+    
+    
     {
         "name": "OneDrive",
         "url": "https://onedrive.live.com",
@@ -441,34 +434,9 @@
         "icon": "https://outlook.live.com/favicon.ico"
     },
     {
-        "name": "Microsoft Planner",
-        "url": "https://tasks.office.com",
-        "icon": "https://tasks.office.com/favicon.ico"
-    },
-    {
-        "name": "Microsoft Exchange",
-        "url": "https://outlook.office.com/exchange",
-        "icon": "https://outlook.office.com/favicon.ico"
-    },
-    {
-        "name": "Microsoft SharePoint",
-        "url": "https://sharepoint.com",
-        "icon": "https://sharepoint.com/favicon.ico"
-    },
-    {
         "name": "Microsoft OneNote",
         "url": "https://www.onenote.com",
         "icon": "https://www.onenote.com/favicon.ico"
-    },
-    {
-        "name": "Microsoft Power BI",
-        "url": "https://powerbi.microsoft.com",
-        "icon": "https://powerbi.microsoft.com/favicon.ico"
-    },
-    {
-        "name": "Microsoft Flow (Power Automate)",
-        "url": "https://flow.microsoft.com",
-        "icon": "https://flow.microsoft.com/favicon.ico"
     },
     {
         "name": "Microsoft Dynamics 365",
@@ -476,19 +444,59 @@
         "icon": "https://dynamics.microsoft.com/favicon.ico"
     },
     {
-        "name": "Windows",
-        "url": "https://www.microsoft.com/windows",
-        "icon": "https://www.microsoft.com/favicon.ico"
-    },
-    {
-        "name": "Microsoft Learn",
-        "url": "https://learn.microsoft.com",
-        "icon": "https://learn.microsoft.com/favicon.ico"
-    },
-    {
         "name": "ChatGPT",
         "url": "https://chat.openai.com",
-        "icon": "https://chat.openai.com/favicon.ico"
+        "logo": "https://chat.openai.com/favicon.ico"
+    },
+    {
+        "name": "Copy.ai",
+        "url": "https://www.copy.ai",
+        "logo": "https://www.copy.ai/favicon.ico"
+    },
+    {
+        "name": "Chatbot.com",
+        "url": "https://www.chatbot.com",
+        "logo": "https://www.chatbot.com/favicon.ico"
+    },
+    {
+        "name": "Fast.ai",
+        "url": "https://www.fast.ai",
+        "logo": "https://www.fast.ai/favicon.ico"
+    },
+    {
+        "name": "Poe",
+        "url": "https://poe.com",
+        "logo": "https://poe.com/favicon.ico"
+    },
+    {
+        "name": "Ideogram",
+        "url": "https://ideogram.ai",
+        "logo": "https://ideogram.ai/favicon.ico"
+    },
+    {
+        "name": "Hugging Face",
+        "url": "https://huggingface.co",
+        "logo": "https://huggingface.co/front/favicon.ico"
+    },
+    {
+        "name": "Gemini",
+        "url": "https://www.gemini.com",
+        "logo": "https://www.gemini.com/favicon.ico"
+    },
+    {
+        "name": "Claude",
+        "url": "https://claude.ai",
+        "logo": "https://claude.ai/favicon.ico"
+    },
+    {
+        "name": "Copilot",
+        "url": "https://github.com/features/copilot",
+        "logo": "https://github.githubassets.com/favicons/favicon.png"
+    },
+    {
+        "name": "Grammarly",
+        "url": "https://www.grammarly.com",
+        "logo": "https://static.grammarly.com/assets/files/favicon.ico"
     },
     {
         "name": "Google AI",
