@@ -1,268 +1,335 @@
-
 [
     {
         "name": "Google",
-        "url": "https://www.google.com"
+        "url": "https://www.google.com",
+        "logo": "https://www.google.com/favicon.ico"
     },
     {
         "name": "Bing",
-        "url": "https://www.bing.com"
+        "url": "https://www.bing.com",
+        "logo": "https://www.bing.com/favicon.ico"
     },
     {
         "name": "Brave",
-        "url": "https://search.brave.com"
+        "url": "https://search.brave.com",
+        "logo": "https://search.brave.com/favicon.ico"
     },
     {
         "name": "Yahoo",
-        "url": "https://www.yahoo.com"
+        "url": "https://www.yahoo.com",
+        "logo": "https://www.yahoo.com/favicon.ico"
     },
     {
         "name": "Facebook",
-        "url": "https://www.facebook.com"
+        "url": "https://www.facebook.com",
+        "logo": "https://www.facebook.com/favicon.ico"
     },
     {
         "name": "Messenger",
-        "url": "https://www.messenger.com"
+        "url": "https://www.messenger.com",
+        "logo": "https://www.messenger.com/favicon.ico"
     },
     {
         "name": "X",
-        "url": "https://twitter.com"
+        "url": "https://twitter.com",
+        "logo": "https://twitter.com/favicon.ico"
     },
     {
         "name": "Pinterest",
-        "url": "https://www.pinterest.com"
+        "url": "https://www.pinterest.com",
+        "logo": "https://www.pinterest.com/favicon.ico"
     },
     {
         "name": "Snapchat",
-        "url": "https://www.snapchat.com"
+        "url": "https://www.snapchat.com",
+        "logo": "https://www.snapchat.com/favicon.ico"
     },
     {
         "name": "Quora",
-        "url": "https://www.quora.com"
+        "url": "https://www.quora.com",
+        "logo": "https://www.quora.com/favicon.ico"
     },
     {
         "name": "GitHub",
-        "url": "https://github.com"
+        "url": "https://github.com",
+        "logo": "https://github.githubassets.com/favicon.ico"
     },
     {
         "name": "Reddit",
-        "url": "https://www.reddit.com"
+        "url": "https://www.reddit.com",
+        "logo": "https://www.reddit.com/favicon.ico"
     },
     {
         "name": "Instagram",
-        "url": "https://www.instagram.com"
+        "url": "https://www.instagram.com",
+        "logo": "https://www.instagram.com/favicon.ico"
     },
     {
         "name": "LinkedIn",
-        "url": "https://www.linkedin.com"
+        "url": "https://www.linkedin.com",
+        "logo": "https://www.linkedin.com/favicon.ico"
     },
     {
         "name": "TikTok",
-        "url": "https://www.tiktok.com"
+        "url": "https://www.tiktok.com",
+        "logo": "https://www.tiktok.com/favicon.ico"
     },
     {
         "name": "Telegram",
-        "url": "https://telegram.org"
+        "url": "https://telegram.org",
+        "logo": "https://telegram.org/favicon.ico"
     },
     {
         "name": "Imo",
-        "url": "https://imo.im"
+        "url": "https://imo.im",
+        "logo": "https://imo.im/favicon.ico"
     },
     {
         "name": "WhatsApp",
-        "url": "https://www.whatsapp.com"
+        "url": "https://www.whatsapp.com",
+        "logo": "https://www.whatsapp.com/favicon.ico"
     },
     {
         "name": "Alapchari",
-        "url": "https://www.alapchari.com"
+        "url": "https://www.alapchari.com",
+        "logo": "https://www.alapchari.com/favicon.ico"
     },
     {
         "name": "Alapcari",
-        "url": "https://www.alapcari.com"
+        "url": "https://www.alapcari.com",
+        "logo": "https://www.alapcari.com/favicon.ico"
     },
     {
         "name": "ChatGPT",
-        "url": "https://chat.openai.com"
+        "url": "https://chat.openai.com",
+        "logo": "https://chat.openai.com/favicon.ico"
     },
     {
         "name": "Copy.ai",
-        "url": "https://www.copy.ai"
+        "url": "https://www.copy.ai",
+        "logo": "https://www.copy.ai/favicon.ico"
     },
     {
         "name": "Chatbot.com",
-        "url": "https://www.chatbot.com"
+        "url": "https://www.chatbot.com",
+        "logo": "https://www.chatbot.com/favicon.ico"
     },
     {
         "name": "Fast.ai",
-        "url": "https://www.fast.ai"
+        "url": "https://www.fast.ai",
+        "logo": "https://www.fast.ai/favicon.ico"
     },
     {
         "name": "Poe",
-        "url": "https://poe.com"
+        "url": "https://poe.com",
+        "logo": "https://poe.com/favicon.ico"
     },
     {
         "name": "Ideogram",
-        "url": "https://ideogram.ai"
+        "url": "https://ideogram.ai",
+        "logo": "https://ideogram.ai/favicon.ico"
     },
     {
         "name": "Hugging Face",
-        "url": "https://huggingface.co"
+        "url": "https://huggingface.co",
+        "logo": "https://huggingface.co/favicon.ico"
     },
     {
         "name": "Gemini",
-        "url": "https://www.gemini.com"
+        "url": "https://www.gemini.com",
+        "logo": "https://www.gemini.com/favicon.ico"
     },
     {
         "name": "Claude",
-        "url": "https://claude.ai"
+        "url": "https://claude.ai",
+        "logo": "https://claude.ai/favicon.ico"
     },
     {
         "name": "Copilot",
-        "url": "https://github.com/features/copilot"
+        "url": "https://github.com/features/copilot",
+        "logo": "https://github.com/favicon.ico"
     },
     {
         "name": "Grammarly",
-        "url": "https://www.grammarly.com"
+        "url": "https://www.grammarly.com",
+        "logo": "https://www.grammarly.com/favicon.ico"
     },
     {
         "name": "YouTube",
-        "url": "https://www.youtube.com"
+        "url": "https://www.youtube.com",
+        "logo": "https://www.youtube.com/favicon.ico"
     },
     {
         "name": "Netflix",
-        "url": "https://www.netflix.com"
+        "url": "https://www.netflix.com",
+        "logo": "https://www.netflix.com/favicon.ico"
     },
     {
         "name": "Disney+",
-        "url": "https://www.disneyplus.com"
+        "url": "https://www.disneyplus.com",
+        "logo": "https://www.disneyplus.com/favicon.ico"
     },
     {
         "name": "Crunchyroll",
-        "url": "https://www.crunchyroll.com"
+        "url": "https://www.crunchyroll.com",
+        "logo": "https://www.crunchyroll.com/favicon.ico"
     },
     {
         "name": "Deezer",
-        "url": "https://www.deezer.com"
+        "url": "https://www.deezer.com",
+        "logo": "https://www.deezer.com/favicon.ico"
     },
     {
         "name": "Spotify",
-        "url": "https://www.spotify.com"
+        "url": "https://www.spotify.com",
+        "logo": "https://www.spotify.com/favicon.ico"
     },
     {
         "name": "YouTube Music",
-        "url": "https://music.youtube.com"
+        "url": "https://music.youtube.com",
+        "logo": "https://music.youtube.com/favicon.ico"
     },
     {
         "name": "Apple Music",
-        "url": "https://music.apple.com"
+        "url": "https://music.apple.com",
+        "logo": "https://music.apple.com/favicon.ico"
     },
     {
         "name": "VS Code",
-        "url": "https://vscode.dev"
+        "url": "https://vscode.dev",
+        "logo": "https://vscode.dev/favicon.ico"
     },
     {
         "name": "W3 Schools",
-        "url": "https://www.w3schools.com"
+        "url": "https://www.w3schools.com",
+        "logo": "https://www.w3schools.com/favicon.ico"
     },
     {
         "name": "CodeSandbox",
-        "url": "https://codesandbox.io"
+        "url": "https://codesandbox.io",
+        "logo": "https://codesandbox.io/favicon.ico"
     },
     {
         "name": "Netlify",
-        "url": "https://www.netlify.com"
+        "url": "https://www.netlify.com",
+        "logo": "https://www.netlify.com/favicon.ico"
     },
     {
         "name": "Vercel",
-        "url": "https://vercel.com"
+        "url": "https://vercel.com",
+        "logo": "https://vercel.com/favicon.ico"
     },
     {
         "name": "Replit",
-        "url": "https://replit.com"
+        "url": "https://replit.com",
+        "logo": "https://replit.com/favicon.ico"
     },
     {
         "name": "Google Translate",
-        "url": "https://translate.google.com"
+        "url": "https://translate.google.com",
+        "logo": "https://translate.google.com/favicon.ico"
     },
     {
         "name": "Simplenote",
-        "url": "https://simplenote.com"
+        "url": "https://simplenote.com",
+        "logo": "https://simplenote.com/favicon.ico"
     },
     {
         "name": "Google Keep",
-        "url": "https://keep.google.com"
+        "url": "https://keep.google.com",
+        "logo": "https://keep.google.com/favicon.ico"
     },
     {
         "name": "YouTube Downloader",
-        "url": "https://youtubedownloader.com"
+        "url": "https://youtubedownloader.com",
+        "logo": "https://youtubedownloader.com/favicon.ico"
     },
     {
         "name": "Wikipedia",
-        "url": "https://www.wikipedia.org"
+        "url": "https://www.wikipedia.org",
+        "logo": "https://www.wikipedia.org/favicon.ico"
     },
     {
         "name": "Quran.com",
-        "url": "https://quran.com"
+        "url": "https://quran.com",
+        "logo": "https://quran.com/favicon.ico"
     },
     {
         "name": "Tanzil Quran",
-        "url": "https://tanzil.net"
+        "url": "https://tanzil.net",
+        "logo": "https://tanzil.net/favicon.ico"
     },
     {
         "name": "Holy Quran",
-        "url": "https://www.holyquran.com"
+        "url": "https://www.holyquran.com",
+        "logo": "https://www.holyquran.com/favicon.ico"
     },
     {
         "name": "Muslim Bangla",
-        "url": "https://muslimbangla.com"
+        "url": "https://muslimbangla.com",
+        "logo": "https://muslimbangla.com/favicon.ico"
     },
     {
         "name": "Hoytoba",
-        "url": "https://hoytoba.com"
+        "url": "https://hoytoba.com",
+        "logo": "https://hoytoba.com/favicon.ico"
     },
     {
         "name": "Raindrop",
-        "url": "https://raindrop.io"
+        "url": "https://raindrop.io",
+        "logo": "https://raindrop.io/favicon.ico"
     },
     {
         "name": "Mega",
-        "url": "https://mega.nz"
+        "url": "https://mega.nz",
+        "logo": "https://mega.nz/favicon.ico"
     },
     {
         "name": "One Drive",
-        "url": "https://onedrive.live.com"
+        "url": "https://onedrive.live.com",
+        "logo": "https://onedrive.live.com/favicon.ico"
     },
     {
         "name": "Google Drive",
-        "url": "https://drive.google.com"
+        "url": "https://drive.google.com",
+        "logo": "https://drive.google.com/favicon.ico"
     },
     {
         "name": "Google Photos",
-        "url": "https://photos.google.com"
+        "url": "https://photos.google.com",
+        "logo": "https://photos.google.com/favicon.ico"
     },
     {
         "name": "Google Docs",
-        "url": "https://docs.google.com"
+        "url": "https://docs.google.com",
+        "logo": "https://docs.google.com/favicon.ico"
     },
     {
         "name": "Google Sheets",
-        "url": "https://sheets.google.com"
+        "url": "https://sheets.google.com",
+        "logo": "https://sheets.google.com/favicon.ico"
     },
     {
         "name": "Google Slides",
-        "url": "https://slides.google.com"
+        "url": "https://slides.google.com",
+        "logo": "https://slides.google.com/favicon.ico"
     },
     {
         "name": "Google Forms",
-        "url": "https://forms.google.com"
+        "url": "https://forms.google.com",
+        "logo": "https://forms.google.com/favicon.ico"
     },
     {
         "name": "Google Calendar",
-        "url": "https://calendar.google.com"
+        "url": "https://calendar.google.com",
+        "logo": "https://calendar.google.com/favicon.ico"
     },
     {
         "name": "Google Keep",
-        "url": "https://keep.google.com"
+        "url": "https://keep.google.com",
+        "logo": "https://keep.google.com/favicon.ico"
     }
 ]
 
+
+এখন JSON ফরম্যাটে উল্লেখিত প্ল্যাটফর্মগুলোর নাম, URL এবং লোগো অন্তর্ভুক্ত করা হয়েছে।
