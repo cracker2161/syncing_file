@@ -160,6 +160,23 @@
       "icon": "https://www.grammarly.com/favicon.ico"
     }
   ],
+  "Personal": [
+    {
+      "name": "IBN TV",
+      "url": "https://ibn-stream.netlify.app",
+      "icon": "https://www.openai.com/favicon.ico"
+    },
+    {
+      "name": "Cracker TV",
+      "url": "https://sultanarabi161.github.io/live-server-/projects/m3u-link-checker.html",
+      "icon": "https://github.com/favicon.ico"
+    },
+    {
+      "name": "Bookmarks",
+      "url": "https://sultan-projects.netlify.app",
+      "icon": "https://www.grammarly.com/favicon.ico"
+    }
+  ],
   "Video Streaming Platforms": [
     {
       "name": "YouTube",
