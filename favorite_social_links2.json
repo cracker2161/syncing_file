@@ -7,7 +7,7 @@
     {
         "name": "Bing",
         "url": "https://www.bing.com",
-        "logo": "https://www.bing.com/favicon.ico"
+        "logo": "https://www.bing.com/sa/simg/favicon-2x.ico"
     },
     {
         "name": "Brave",
@@ -17,27 +17,27 @@
     {
         "name": "Yahoo",
         "url": "https://www.yahoo.com",
-        "logo": "https://www.yahoo.com/favicon.ico"
+        "logo": "https://s.yimg.com/rz/l/favicon.ico"
     },
     {
         "name": "Facebook",
         "url": "https://www.facebook.com",
-        "logo": "https://www.facebook.com/favicon.ico"
+        "logo": "https://static.xx.fbcdn.net/rsrc.php/yo/r/iRmz9lCMBD2.ico"
     },
     {
         "name": "Messenger",
         "url": "https://www.messenger.com",
-        "logo": "https://www.messenger.com/favicon.ico"
+        "logo": "https://static.xx.fbcdn.net/rsrc.php/yo/r/iRmz9lCMBD2.ico"
     },
     {
-        "name": "X",
+        "name": "X (Twitter)",
         "url": "https://twitter.com",
-        "logo": "https://twitter.com/favicon.ico"
+        "logo": "https://abs.twimg.com/favicons/twitter.2.ico"
     },
     {
         "name": "Pinterest",
         "url": "https://www.pinterest.com",
-        "logo": "https://www.pinterest.com/favicon.ico"
+        "logo": "https://s.pinimg.com/webapp/style/images/favicon-3d1aaf61.png"
     },
     {
         "name": "Snapchat",
@@ -52,27 +52,27 @@
     {
         "name": "GitHub",
         "url": "https://github.com",
-        "logo": "https://github.githubassets.com/favicon.ico"
+        "logo": "https://github.githubassets.com/favicons/favicon-dark.png"
     },
     {
         "name": "Reddit",
         "url": "https://www.reddit.com",
-        "logo": "https://www.reddit.com/favicon.ico"
+        "logo": "https://www.redditstatic.com/desktop2x/img/favicon/favicon-32x32.png"
     },
     {
         "name": "Instagram",
         "url": "https://www.instagram.com",
-        "logo": "https://www.instagram.com/favicon.ico"
+        "logo": "https://www.instagram.com/static/images/ico/favicon-200.png/ab6eff595bb1.png"
     },
     {
         "name": "LinkedIn",
         "url": "https://www.linkedin.com",
-        "logo": "https://www.linkedin.com/favicon.ico"
+        "logo": "https://static.licdn.com/sc/h/br/apsh8r7l7dcn2c4nr55q8oiu7"
     },
     {
         "name": "TikTok",
         "url": "https://www.tiktok.com",
-        "logo": "https://www.tiktok.com/favicon.ico"
+        "logo": "https://sf16-ies-musc1-www.tiktok.com/obj/tiktok-web/common/images/favicon.ico"
     },
     {
         "name": "Telegram",
@@ -82,12 +82,12 @@
     {
         "name": "Imo",
         "url": "https://imo.im",
-        "logo": "https://imo.im/favicon.ico"
+        "logo": "https://imo.im/static2.imo.net/images/favicon.png"
     },
     {
         "name": "WhatsApp",
         "url": "https://www.whatsapp.com",
-        "logo": "https://www.edigitalagency.com.au/wp-content/uploads/whatsapp-icon-png.png"
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg"
     },
     {
         "name": "Alapchari",
@@ -132,7 +132,7 @@
     {
         "name": "Hugging Face",
         "url": "https://huggingface.co",
-        "logo": "https://huggingface.co/favicon.ico"
+        "logo": "https://huggingface.co/front/favicon.ico"
     },
     {
         "name": "Gemini",
@@ -147,52 +147,52 @@
     {
         "name": "Copilot",
         "url": "https://github.com/features/copilot",
-        "logo": "https://github.com/favicon.ico"
+        "logo": "https://github.githubassets.com/favicons/favicon.png"
     },
     {
         "name": "Grammarly",
         "url": "https://www.grammarly.com",
-        "logo": "https://www.grammarly.com/favicon.ico"
+        "logo": "https://static.grammarly.com/assets/files/favicon.ico"
     },
     {
         "name": "YouTube",
         "url": "https://www.youtube.com",
-        "logo": "https://www.youtube.com/favicon.ico"
+        "logo": "https://www.youtube.com/s/desktop/e5cf4acb/img/favicon_144.png"
     },
     {
         "name": "Netflix",
         "url": "https://www.netflix.com",
-        "logo": "https://www.netflix.com/favicon.ico"
+        "logo": "https://assets.nflxext.com/us/ffe/siteui/common/icons/nficon2016.ico"
     },
     {
         "name": "Disney+",
         "url": "https://www.disneyplus.com",
-        "logo": "https://www.disneyplus.com/favicon.ico"
+        "logo": "https://static-assets.disneyplus.com/favicon.ico"
     },
     {
         "name": "Crunchyroll",
         "url": "https://www.crunchyroll.com",
-        "logo": "https://www.crunchyroll.com/favicon.ico"
+        "logo": "https://static.crunchyroll.com/cxweb/assets/img/favicons/favicon-96x96.png"
     },
     {
         "name": "Deezer",
         "url": "https://www.deezer.com",
-        "logo": "https://www.deezer.com/favicon.ico"
+        "logo": "https://e-cdns-files.dzcdn.net/cache/images/common/favicon/favicon-96x96.cbbc61758b2ec2f9ff7f0da4b134d5fc.png"
     },
     {
         "name": "Spotify",
         "url": "https://www.spotify.com",
-        "logo": "https://www.spotify.com/favicon.ico"
+        "logo": "https://www.scdn.co/i/_global/favicon.png"
     },
     {
         "name": "YouTube Music",
         "url": "https://music.youtube.com",
-        "logo": "https://music.youtube.com/favicon.ico"
+        "logo": "https://www.youtube.com/s/desktop/e5cf4acb/img/favicon_144.png"
     },
     {
         "name": "Apple Music",
         "url": "https://music.apple.com",
-        "logo": "https://music.apple.com/favicon.ico"
+        "logo": "https://music.apple.com/assets/favicon.ico"
     },
     {
         "name": "VS Code",
@@ -212,24 +212,24 @@
     {
         "name": "Netlify",
         "url": "https://www.netlify.com",
-        "logo": "https://www.netlify.com/favicon.ico"
+        "logo": "https://www.netlify.com/favicon-32x32.png"
     },
     {
         "name": "Vercel",
         "url": "https://vercel.com",
-        "logo": "https://vercel.com/favicon.ico"
+        "logo": "https://assets.vercel.com/image/upload/front/favicon/vercel/favicon.ico"
     },
     {
         "name": "Replit",
         "url": "https://replit.com",
-        "logo": "https://replit.com/favicon.ico"
+        "logo": "https://replit.com/public/icons/favicon-196.png"
     },
     {
         "name": "Google Translate",
         "url": "https://translate.google.com",
         "logo": "https://translate.google.com/favicon.ico"
     },
-    {
+        {
         "name": "Simplenote",
         "url": "https://simplenote.com",
         "logo": "https://simplenote.com/favicon.ico"
@@ -247,7 +247,7 @@
     {
         "name": "Wikipedia",
         "url": "https://www.wikipedia.org",
-        "logo": "https://www.wikipedia.org/favicon.ico"
+        "logo": "https://www.wikipedia.org/static/favicon/wikipedia.ico"
     },
     {
         "name": "Quran.com",
@@ -292,7 +292,7 @@
     {
         "name": "Google Drive",
         "url": "https://drive.google.com",
-        "logo": "https://drive.google.com/favicon.ico"
+        "logo": "https://ssl.gstatic.com/docs/doclist/images/drive_2022q3_32dp.png"
     },
     {
         "name": "Google Photos",
@@ -302,27 +302,27 @@
     {
         "name": "Google Docs",
         "url": "https://docs.google.com",
-        "logo": "https://docs.google.com/favicon.ico"
+        "logo": "https://ssl.gstatic.com/docs/doclist/images/docs_2022q3_32dp.png"
     },
     {
         "name": "Google Sheets",
         "url": "https://sheets.google.com",
-        "logo": "https://sheets.google.com/favicon.ico"
+        "logo": "https://ssl.gstatic.com/docs/spreadsheets/images/favicon3.ico"
     },
     {
         "name": "Google Slides",
         "url": "https://slides.google.com",
-        "logo": "https://slides.google.com/favicon.ico"
+        "logo": "https://ssl.gstatic.com/docs/presentations/images/favicon5.ico"
     },
     {
         "name": "Google Forms",
         "url": "https://forms.google.com",
-        "logo": "https://forms.google.com/favicon.ico"
+        "logo": "https://ssl.gstatic.com/docs/forms/images/forms/favicon_2022v1.ico"
     },
     {
         "name": "Google Calendar",
         "url": "https://calendar.google.com",
-        "logo": "https://calendar.google.com/favicon.ico"
+        "logo": "https://ssl.gstatic.com/calendar/images/favicon_v2014_7.ico"
     },
     {
         "name": "Google Keep",
