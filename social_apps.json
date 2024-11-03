@@ -1,0 +1,590 @@
+{
+  "search_engines": {
+    "category_name": "Search Engines",
+    "apps": [
+      {
+        "name": "Google",
+        "category": "Search Engines",
+        "icon": "fab fa-google",
+        "color": "#4285f4",
+        "url": "https://google.com"
+      },
+      {
+        "name": "Bing",
+        "category": "Search Engines",
+        "icon": "fab fa-microsoft",
+        "color": "#0078d4",
+        "url": "https://bing.com"
+      },
+      {
+        "name": "Brave",
+        "category": "Search Engines",
+        "icon": "fa-brands fa-brave",
+        "color": "#f4511e",
+        "url": "https://search.brave.com"
+      },
+      {
+        "name": "Yahoo",
+        "category": "Search Engines",
+        "icon": "fab fa-yahoo",
+        "color": "#410093",
+        "url": "https://search.yahoo.com"
+      }
+    ]
+  },
+  "Personal": {
+    "category_name": "Personal",
+    "apps": [
+      {
+        "name": "Cracker AI",
+        "category": "Personal",
+        "icon": "fas fa-brain",
+        "color": "#FF6347",
+        "url": "https://sultan-projects.netlify.app/projects/cracker-ai.html"
+      },
+      {
+        "name": "IPTV",
+        "category": "Personal",
+        "icon": "fas fa-tv",
+        "color": "#4285f4",
+        "url": "https://sultan-projects.netlify.app/projects/iptv.html"
+      },
+      {
+        "name": "FM Radio",
+        "category": "Personal",
+        "icon": "fas fa-music",
+        "color": "#32CD32",
+        "url": "https://sultan-projects.netlify.app/projects/fm_radio.html"
+      },
+      {
+        "name": "Code Editor",
+        "category": "Personal",
+        "icon": "fas fa-code",
+        "color": "#4682B4",
+        "url": "https://sultanarabi161.github.io/live-server-/projects/code-editor.html"
+      },
+      {
+        "name": "Sultan Projects",
+        "category": "Personal",
+        "icon": "fas fa-project-diagram",
+        "color": "#FFD700",
+        "url": "https://sultan-projects.netlify.app/"
+      },
+      {
+        "name": "M3U Link Checker",
+        "category": "Personal",
+        "icon": "fas fa-link",
+        "color": "#FF4500",
+        "url": "https://sultanarabi161.github.io/live-server-/projects/m3u-link-checker.html"
+      },
+      {
+        "name": "IBN Stream",
+        "category": "Personal",
+        "icon": "fas fa-video",
+        "color": "#8A2BE2",
+        "url": "https://ibn-stream.netlify.app/"
+      },
+      {
+        "name": "Digital Card",
+        "category": "Personal",
+        "icon": "fas fa-id-card",
+        "color": "#20B2AA",
+        "url": "https://sultanarabi.netlify.app/"
+      },
+      {
+        "name": "Live Server",
+        "category": "Personal",
+        "icon": "fas fa-server",
+        "color": "#FF8C00",
+        "url": "https://cracker2161.github.io/github-live-server/"
+      }
+    ]
+  }, 
+  "social_media": {
+    "category_name": "Social Media",
+    "apps": [
+      {
+        "name": "Facebook",
+        "category": "Social Media",
+        "icon": "fab fa-facebook",
+        "color": "#1877f2",
+        "url": "https://facebook.com"
+      },
+      {
+        "name": "Messenger",
+        "category": "Social Media",
+        "icon": "fab fa-facebook-messenger",
+        "color": "#0084ff",
+        "url": "https://messenger.com"
+      },
+      {
+        "name": "Twitter",
+        "category": "Social Media",
+        "icon": "fa-x-twitter",
+        "color": "#1da1f2",
+        "url": "https://x.com"
+      },
+      {
+        "name": "Reddit",
+        "category": "Social Media",
+        "icon": "fab fa-reddit",
+        "color": "#ff4500",
+        "url": "https://reddit.com"
+      },
+      {
+        "name": "Tumblr",
+        "category": "Social Media",
+        "icon": "fab fa-tumblr",
+        "color": "#34526f",
+        "url": "https://tumblr.com"
+      },
+      {
+        "name": "Snapchat",
+        "category": "Social Media",
+        "icon": "fab fa-snapchat",
+        "color": "#fffc00",
+        "url": "https://snapchat.com"
+      },
+      {
+        "name": "Vimeo",
+        "category": "Social Media",
+        "icon": "fab fa-vimeo",
+        "color": "#1ab7ea",
+        "url": "https://vimeo.com"
+      },
+      {
+        "name": "Quora",
+        "category": "Social Media",
+        "icon": "fab fa-quora",
+        "color": "#b92b27",
+        "url": "https://bn.quora.com"
+      },
+      {
+        "name": "Flickr",
+        "category": "Social Media",
+        "icon": "fab fa-flickr",
+        "color": "#ff0084",
+        "url": "https://flickr.com"
+      },
+      {
+        "name": "Periscope",
+        "category": "Social Media",
+        "icon": "fab fa-periscope",
+        "color": "#40a4c4",
+        "url": "https://www.pscp.tv"
+      },
+      {
+        "name": "Instagram",
+        "category": "Social Media",
+        "icon": "fab fa-instagram",
+        "color": "#e4405f",
+        "url": "https://instagram.com"
+      },
+      {
+        "name": "LinkedIn",
+        "category": "Social Media",
+        "icon": "fab fa-linkedin",
+        "color": "#0077b5",
+        "url": "https://linkedin.com"
+      },
+      {
+        "name": "TikTok",
+        "category": "Social Media",
+        "icon": "fab fa-tiktok",
+        "color": "#000000",
+        "url": "https://tiktok.com"
+      },
+      {
+        "name": "Telegram",
+        "category": "Social Media",
+        "icon": "fab fa-telegram",
+        "color": "#0088cc",
+        "url": "https://web.telegram.org"
+      },
+      {
+        "name": "Imo",
+        "category": "Social Media",
+        "icon": "fab fa-imo",
+        "color": "#00c4cc",
+        "url": "https://imo.im"
+      },
+      {
+        "name": "WhatsApp",
+        "category": "Social Media",
+        "icon": "fab fa-whatsapp",
+        "color": "#25d366",
+        "url": "https://web.whatsapp.com"
+      },
+      {
+        "name": "Alapchari",
+        "category": "Social Media",
+        "icon": "fas fa-comments",
+        "color": "#007bff",
+        "url": "https://alapchari.com"
+      },
+      {
+        "name": "Alapcari",
+        "category": "Social Media",
+        "icon": "fas fa-comments",
+        "color": "#007bff",
+        "url": "https://alapcari.com"
+      }
+    ]
+  },
+  "artificial_intelligence": {
+    "category_name": "Artificial Intelligence",
+    "apps": [
+      {
+        "name": "Chat GPT",
+        "category": "Artificial Intelligence",
+        "icon": "fab fa-openai",
+        "color": "#ffffff",
+        "url": "https://chatgpt.com"
+      },
+      {
+        "name": "OpenAI",
+        "category": "Artificial Intelligence",
+        "icon": "fab fa-openai",
+        "color": "#ffffff",
+        "url": "https://openai.com"
+      },
+      {
+        "name": "Chatbot.com",
+        "category": "Artificial Intelligence",
+        "icon": "fas fa-robot",
+        "color": "#00aaff",
+        "url": "https://chatbot.com"
+      },
+      {
+        "name": "Fast.ai",
+        "category": "Artificial Intelligence",
+        "icon": "fas fa-lightbulb",
+        "color": "#ffcc00",
+        "url": "https://www.fast.ai"
+      },
+      {
+        "name": "Poe",
+        "category": "Artificial Intelligence",
+        "icon": "fas fa-robot",
+        "color": "#00aaff",
+        "url": "https://poe.com"
+      },
+      {
+        "name": "Ideogram",
+        "category": "Artificial Intelligence",
+        "icon": "fas fa-brain",
+        "color": "#ffcc00",
+        "url": "https://ideogram.ai"
+      },
+      {
+        "name": "Hugging Face",
+        "category": "Artificial Intelligence",
+        "icon": "fab fa-hugging-face",
+        "color": "#ffcc00",
+        "url": "https://huggingface.co"
+      },
+      {
+        "name": "Gemini",
+        "category": "Artificial Intelligence",
+        "icon": "fas fa-robot",
+        "color": "#00aaff",
+        "url": "https://gemini.google.com"
+      },
+      {
+        "name": "Claude",
+        "category": "Artificial Intelligence",
+        "icon": "fas fa-robot",
+        "color": "#00aaff",
+        "url": "https://claude.ai"
+      },
+      {
+        "name": "Copilot",
+        "category": "Artificial Intelligence",
+        "icon": "fas fa-code",
+        "color": "#1e90ff",
+        "url": "https://copilot.microsoft.com"
+      },
+      {
+        "name": "Grammarly",
+        "category": "Artificial Intelligence",
+        "icon": "fab fa-grammarly",
+        "color": "#00b300",
+        "url": "https://grammarly.com"
+      }
+    ]
+  },
+  "video": {
+    "category_name": "Video",
+    "apps": [
+      {
+        "name": "YouTube",
+        "category": "Video",
+        "icon": "fab fa-youtube",
+        "color": "#ff0000",
+        "url": "https://youtube.com"
+      },
+      {
+        "name": "Netflix",
+        "category": "Video",
+        "icon": "fab fa-netflix",
+        "color": "#e50914",
+        "url": "https://netflix.com"
+      },
+      {
+        "name": "Disney+",
+        "category": "Video",
+        "icon": "fab fa-disney",
+        "color": "#113ccf",
+        "url": "https://disneyplus.com"
+      },
+      {
+        "name": "Crunchyroll",
+        "category": "Video",
+        "icon": "fab fa-crunchyroll",
+        "color": "#ff6d00",
+        "url": "https://crunchyroll.com"
+      },
+      {
+        "name": "Deezer",
+        "category": "Video",
+        "icon": "fab fa-deezer",
+        "color": "#ff005d",
+        "url": "https://deezer.com"
+      }
+    ]
+  },
+  "music": {
+    "category_name": "Music",
+    "apps": [
+      {
+        "name": "Spotify",
+        "category": "Music",
+        "icon": "fab fa-spotify",
+        "color": "#1db954",
+        "url": "https://spotify.com"
+      },
+      {
+        "name": "YouTube Music",
+        "category": "Music",
+        "icon": "fab fa-youtube",
+        "color": "#ff0000",
+        "url": "https://music.youtube.com"
+      },
+      {
+        "name": "Apple Music",
+        "category": "Music",
+        "icon": "fab fa-apple",
+        "color": "#000000",
+        "url": "https://music.apple.com"
+      }
+    ]
+  },
+  "tech": {
+    "category_name": "Tech",
+    "apps": [
+      {
+        "name": "GitHub",
+        "category": "Tech",
+        "icon": "fab fa-github",
+        "color": "#333333",
+        "url": "https://github.com"
+      },
+      {
+        "name": "VS Code Web",
+        "category": "Tech",
+        "icon": "fab fa-vscode",
+        "color": "#007ACC",
+        "url": "https://vscode.dev"
+      },
+      {
+        "name": "W3Schools",
+        "category": "Tech",
+        "icon": "fab fa-html5",
+        "color": "#4caf50",
+        "url": "https://w3schools.com"
+      },
+      {
+        "name": "CodeSandbox",
+        "category": "Tech",
+        "icon": "fab fa-codesandbox",
+        "color": "#007ACC",
+        "url": "https://codesandbox.io"
+      },
+      {
+        "name": "Netlify",
+        "category": "Tech",
+        "icon": "fab fa-netlify",
+        "color": "#00c4cc",
+        "url": "https://netlify.com"
+      },
+      {
+        "name": "Vercel",
+        "category": "Tech",
+        "icon": "fab fa-vercel",
+        "color": "#000000",
+        "url": "https://vercel.com"
+      },
+      {
+        "name": "Replit",
+        "category": "Tech",
+        "icon": "fab fa-replit",
+        "color": "#ff1d1d",
+        "url": "https://replit.com"
+      }
+    ]
+  },
+  "tools": {
+    "category_name": "Tools",
+    "apps": [
+      {
+        "name": "Google Translator",
+        "category": "Tools",
+        "icon": "fab fa-google-translate",
+        "color": "#4285f4",
+        "url": "https://translate.google.com"
+      },
+      {
+        "name": "Font Awesome",
+        "category": "Tools",
+        "icon": "fa-brands fa-font-awesome",
+        "color": "#f6f6f6",
+        "url": "https://fontawesome.com/icons"
+      },
+      {
+        "name": "Simplenote",
+        "category": "Tools",
+        "icon": "fab fa-simplenote",
+        "color": "#f6f6f6",
+        "url": "https://simplenote.com"
+      },
+      {
+        "name": "Google Keep",
+        "category": "Tools",
+        "icon": "fab fa-google",
+        "color": "#4285f4",
+        "url": "https://keep.google.com"
+      },
+      {
+        "name": "YouTube Video Downloader",
+        "category": "Tools",
+        "icon": "fas fa-download",
+        "color": "#007bff",
+        "url": "https://y2meta.tube"
+      }
+    ]
+  },
+  "reading_sites": {
+    "category_name": "Reading Sites",
+    "apps": [
+      {
+        "name": "Wikipedia",
+        "category": "Reading Sites",
+        "icon": "fab fa-wikipedia-w",
+        "color": "#000000",
+        "url": "https://wikipedia.org"
+      },
+      {
+        "name": "quran.com",
+        "category": "Reading Sites",
+        "icon": "fas fa-book",
+        "color": "#007bff",
+        "url": "https://quran.com"
+      },
+      {
+        "name": "Tanzil Quran",
+        "category": "Reading Sites",
+        "icon": "fas fa-book",
+        "color": "#007bff",
+        "url": "https://tanzil.net"
+      },
+      {
+        "name": "Surah Quran",
+        "category": "Reading Sites",
+        "icon": "fa-solid fa-book-quran",
+        "color": "#007bff",
+        "url": "https://surahquran.com"
+      },
+      {
+        "name": "Muslim Bangla",
+        "category": "Reading Sites",
+        "icon": "fas fa-book",
+        "color": "#007bff",
+        "url": "https://muslimbangla.com"
+      },
+      {
+        "name": "Hoytoba",
+        "category": "Reading Sites",
+        "icon": "fas fa-book",
+        "color": "#007bff",
+        "url": "https://hoytoba.com"
+      }
+    ]
+  },
+  "others": {
+    "category_name": "Others",
+    "apps": [
+      {
+        "name": "Raindrop",
+        "category": "Others",
+        "icon": "fas fa-folder-open",
+        "color": "#007bff",
+        "url": "https://app.raindrop.io/my/48260732"
+      },
+      {
+        "name": "Mega",
+        "category": "Others",
+        "icon": "fab fa-mega",
+        "color": "#f68b1f",
+        "url": "https://mega.nz"
+      },
+      {
+        "name": "OneDrive",
+        "category": "Others",
+        "icon": "fab fa-microsoft",
+        "color": "#0078d4",
+        "url": "https://onedrive.live.com"
+      }
+    ]
+  },
+  "google_services": {
+    "category_name": "Google Services",
+    "apps": [
+      {
+        "name": "Google Drive",
+        "category": "Google Services",
+        "icon": "fab fa-google-drive",
+        "color": "#34a853",
+        "url": "https://drive.google.com"
+      },
+      {
+        "name": "Google Docs",
+        "category": "Google Services",
+        "icon": "fab fa-google-docs",
+        "color": "#ffffff",
+        "url": "https://docs.google.com"
+      },
+      {
+        "name": "Google Sheets",
+        "category": "Google Services",
+        "icon": "fab fa-google-sheets",
+        "color": "#34a853",
+        "url": "https://sheets.google.com"
+      },
+      {
+        "name": "Google Slides",
+        "category": "Google Services",
+        "icon": "fab fa-google-slides",
+        "color": "#ff7043",
+        "url": "https://slides.google.com"
+      },
+      {
+        "name": "Google Calendar",
+        "category": "Google Services",
+        "icon": "fab fa-google-calendar",
+        "color": "#4285f4",
+        "url": "https://calendar.google.com"
+      }
+    ]
+  }
+}
+
