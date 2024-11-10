@@ -1,0 +1,204 @@
+{
+  "personal": {
+    "category_name": "Personal",
+    "apps": [
+      {
+        "name": "Cracker AI",
+        "category": "Personal",
+        "icon": "fas fa-brain",
+        "color": "#FF6347",
+        "url": "https://sultan-projects.netlify.app/projects/cracker-ai.html"
+      },
+      {
+        "name": "IPTV",
+        "category": "Personal",
+        "icon": "fas fa-tv",
+        "color": "#4285f4",
+        "url": "https://sultan-projects.netlify.app/projects/iptv.html"
+      },
+      {
+        "name": "FM Radio",
+        "category": "Personal",
+        "icon": "fas fa-music",
+        "color": "#32CD32",
+        "url": "https://sultan-projects.netlify.app/projects/fm_radio.html"
+      },
+      {
+        "name": "Code Editor",
+        "category": "Personal",
+        "icon": "fas fa-code",
+        "color": "#4682B4",
+        "url": "https://sultanarabi161.github.io/live-server-/projects/code-editor.html"
+      },
+      {
+        "name": "Sultan Projects",
+        "category": "Personal",
+        "icon": "fas fa-project-diagram",
+        "color": "#FFD700",
+        "url": "https://sultan-projects.netlify.app/"
+      },
+      {
+        "name": "M3U Link Checker",
+        "category": "Personal",
+        "icon": "fas fa-link",
+        "color": "#FF4500",
+        "url": "https://sultanarabi161.github.io/live-server-/projects/m3u-link-checker.html"
+      },
+      {
+        "name": "IBN Stream",
+        "category": "Personal",
+        "icon": "fas fa-video",
+        "color": "#8A2BE2",
+        "url": "https://ibn-stream.netlify.app/"
+      }
+    ]
+  },
+  "google_services": {
+    "category_name": "Google Services",
+    "apps": [
+      {
+        "name": "Google Drive",
+        "category": "Google Services",
+        "icon": "fab fa-google-drive",
+        "color": "#34a853",
+        "url": "https://drive.google.com"
+      },
+      {
+        "name": "Google Docs",
+        "category": "Google Services",
+        "icon": "fab fa-google-docs",
+        "color": "#ffffff",
+        "url": "https://docs.google.com"
+      },
+      {
+        "name": "Google Sheets",
+        "category": "Google Services",
+        "icon": "fab fa-google-sheets",
+        "color": "#34a853",
+        "url": "https://sheets.google.com"
+      },
+      {
+        "name": "Google Slides",
+        "category": "Google Services",
+        "icon": "fab fa-google-slides",
+        "color": "#ff7043",
+        "url": "https://slides.google.com"
+      },
+      {
+        "name": "Google Calendar",
+        "category": "Google Services",
+        "icon": "fab fa-google-calendar",
+        "color": "#4285f4",
+        "url": "https://calendar.google.com"
+      }
+    ]
+  },
+  "for_developers": {
+    "category_name": "For Developers",
+    "apps": [
+      {
+        "name": "GitHub",
+        "category": "For Developers",
+        "icon": "fab fa-github",
+        "color": "#181717",
+        "url": "https://github.com"
+      },
+      {
+        "name": "Stack Overflow",
+        "category": "For Developers",
+        "icon": "fab fa-stack-overflow",
+        "color": "#f48024",
+        "url": "https://stackoverflow.com"
+      },
+      {
+        "name": "CodePen",
+        "category": "For Developers",
+        "icon": "fab fa-codepen",
+        "color": "#000000",
+        "url": "https://codepen.io"
+      },
+      {
+        "name": "Replit",
+        "category": "For Developers",
+        "icon": "fas fa-laptop-code",
+        "color": "#667eea",
+        "url": "https://replit.com"
+      },
+      {
+        "name": "Visual Studio Code",
+        "category": "For Developers",
+        "icon": "fas fa-file-code",
+        "color": "#0078d7",
+        "url": "https://code.visualstudio.com"
+      },
+      {
+        "name": "Glitch",
+        "category": "For Developers",
+        "icon": "fas fa-bug",
+        "color": "#f15152",
+        "url": "https://glitch.com"
+      },
+      {
+        "name": "Firebase",
+        "category": "For Developers",
+        "icon": "fas fa-database",
+        "color": "#ffca28",
+        "url": "https://firebase.google.com"
+      }
+    ]
+  },
+  "public": {
+    "category_name": "Public",
+    "apps": [
+      {
+        "name": "Facebook",
+        "category": "Public",
+        "icon": "fab fa-facebook",
+        "color": "#1877f2",
+        "url": "https://facebook.com"
+      },
+      {
+        "name": "Twitter",
+        "category": "Public",
+        "icon": "fab fa-twitter",
+        "color": "#1da1f2",
+        "url": "https://twitter.com"
+      },
+      {
+        "name": "Instagram",
+        "category": "Public",
+        "icon": "fab fa-instagram",
+        "color": "#c13584",
+        "url": "https://instagram.com"
+      },
+      {
+        "name": "YouTube",
+        "category": "Public",
+        "icon": "fab fa-youtube",
+        "color": "#ff0000",
+        "url": "https://youtube.com"
+      },
+      {
+        "name": "LinkedIn",
+        "category": "Public",
+        "icon": "fab fa-linkedin",
+        "color": "#0077b5",
+        "url": "https://linkedin.com"
+      },
+      {
+        "name": "Pinterest",
+        "category": "Public",
+        "icon": "fab fa-pinterest",
+        "color": "#bd081c",
+        "url": "https://pinterest.com"
+      },
+      {
+        "name": "Reddit",
+        "category": "Public",
+        "icon": "fab fa-reddit",
+        "color": "#ff4500",
+        "url": "https://reddit.com"
+      }
+    ]
+  }
+}
