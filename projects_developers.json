@@ -5,8 +5,8 @@
       {
         "name": "Check IPTV Playlist",
         "category": "For Developers",
-        "icon": "fab fa-github",
-        "color": "#181717",
+        "icon": "fas fa-check-circle",
+        "color": "#1E90FF",
         "url": "https://projects-media.vercel.app/projects/iptv/check_iptv.html"
       },
       {
@@ -19,7 +19,7 @@
       {
         "name": "Sultan Projects",
         "category": "For Developers",
-        "icon": "fas fa-project-diagram",
+        "icon": "fas fa-diagram-project",
         "color": "#FFD700",
         "url": "https://sultan-projects.netlify.app/"
       },
@@ -40,12 +40,12 @@
       {
         "name": "Portfolio",
         "category": "For Developers",
-        "icon": "fas fa-bug",
+        "icon": "fas fa-id-badge",
         "color": "#f15152",
         "url": "https://glitch.com"
       },
       {
-        "name": "Devolopers information",
+        "name": "Developers Information",
         "category": "For Developers",
         "icon": "fas fa-database",
         "color": "#ffca28",
@@ -59,7 +59,7 @@
       {
         "name": "Cracker AI",
         "category": "Public",
-        "icon": "fas fa-brain",
+        "icon": "fas fa-robot",
         "color": "#FF6347",
         "url": "https://sultan-projects.netlify.app/projects/cracker-ai.html"
       },
@@ -73,7 +73,7 @@
       {
         "name": "FM Radio",
         "category": "Public",
-        "icon": "fas fa-music",
+        "icon": "fas fa-headphones",
         "color": "#32CD32",
         "url": "https://sultan-projects.netlify.app/projects/fm_radio.html"
       },
@@ -85,39 +85,46 @@
         "url": "https://ibn-stream.netlify.app/"
       },
       {
-        "name": "crack iptv",
+        "name": "Crack IPTV",
         "category": "Public",
-        "icon": "fab fa-linkedin",
+        "icon": "fas fa-link",
         "color": "#0077b5",
         "url": "https://linkedin.com"
       },
       {
         "name": "Orbit TV",
         "category": "Public",
-        "icon": "fab fa-pinterest",
+        "icon": "fab fa-satellite-dish",
         "color": "#bd081c",
         "url": "https://pinterest.com"
       },
       {
         "name": "Simple Note",
         "category": "Public",
-        "icon": "fab fa-reddit",
+        "icon": "fas fa-sticky-note",
         "color": "#ff4500",
         "url": "https://reddit.com"
-      }
+      },
       {
-        "name": "Crack pad",
+        "name": "Crack Pad",
         "category": "Public",
-        "icon": "fab fa-reddit",
+        "icon": "fas fa-clipboard",
         "color": "#ff4500",
         "url": "https://reddit.com"
-      }
+      },
       {
         "name": "Speed Dial",
         "category": "Public",
-        "icon": "fab fa-reddit",
+        "icon": "fas fa-tachometer-alt",
         "color": "#ff4500",
         "url": "https://reddit.com"
+      },
+      {
+        "name": "Plus TV",
+        "category": "Public",
+        "icon": "fas fa-plus-square",
+        "color": "#ff4500",
+        "url": "projects/iptv/plus_tv.html"
       }
     ]
   }
