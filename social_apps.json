@@ -1,4 +1,133 @@
 {
+  "for_developers": {
+    "category_name": "For Developers",
+    "apps": [
+      {
+        "name": "Check IPTV Playlist",
+        "category": "For Developers",
+        "icon": "fas fa-check-circle",
+        "color": "#1E90FF",
+        "url": "https://projects-media.vercel.app/projects/iptv/check_iptv.html"
+      },
+      {
+        "name": "Code Editor",
+        "category": "For Developers",
+        "icon": "fas fa-code",
+        "color": "#4682B4",
+        "url": "https://sultanarabi161.github.io/live-server-/projects/code-editor.html"
+      },
+      {
+        "name": "Sultan Projects",
+        "category": "For Developers",
+        "icon": "fas fa-diagram-project",
+        "color": "#FFD700",
+        "url": "https://sultan-projects.netlify.app/"
+      },
+      {
+        "name": "Replit",
+        "category": "For Developers",
+        "icon": "fas fa-laptop-code",
+        "color": "#667eea",
+        "url": "https://replit.com"
+      },
+      {
+        "name": "Visual Studio Code",
+        "category": "For Developers",
+        "icon": "fas fa-file-code",
+        "color": "#0078d7",
+        "url": "https://code.visualstudio.com"
+      },
+      {
+        "name": "Portfolio",
+        "category": "For Developers",
+        "icon": "fas fa-id-badge",
+        "color": "#f15152",
+        "url": "https://glitch.com"
+      },
+      {
+        "name": "Developers Information",
+        "category": "For Developers",
+        "icon": "fas fa-database",
+        "color": "#ffca28",
+        "url": "https://firebase.google.com"
+      }
+    ]
+  },
+  "public": {
+    "category_name": "Public",
+    "apps": [
+      {
+        "name": "Cracker AI",
+        "category": "Public",
+        "icon": "fas fa-robot",
+        "color": "#FF6347",
+        "url": "https://sultan-projects.netlify.app/projects/cracker-ai.html"
+      },
+      {
+        "name": "IPTV",
+        "category": "Public",
+        "icon": "fas fa-tv",
+        "color": "#4285f4",
+        "url": "https://sultan-projects.netlify.app/projects/iptv.html"
+      },
+      {
+        "name": "FM Radio",
+        "category": "Public",
+        "icon": "fas fa-headphones",
+        "color": "#32CD32",
+        "url": "https://sultan-projects.netlify.app/projects/fm_radio.html"
+      },
+      {
+        "name": "IBN Stream",
+        "category": "Public",
+        "icon": "fas fa-video",
+        "color": "#8A2BE2",
+        "url": "https://ibn-stream.netlify.app/"
+      },
+      {
+        "name": "Crack IPTV",
+        "category": "Public",
+        "icon": "fas fa-link",
+        "color": "#0077b5",
+        "url": "https://linkedin.com"
+      },
+      {
+        "name": "Orbit TV",
+        "category": "Public",
+        "icon": "fab fa-satellite-dish",
+        "color": "#bd081c",
+        "url": "https://pinterest.com"
+      },
+      {
+        "name": "Simple Note",
+        "category": "Public",
+        "icon": "fas fa-sticky-note",
+        "color": "#ff4500",
+        "url": "https://reddit.com"
+      },
+      {
+        "name": "Crack Pad",
+        "category": "Public",
+        "icon": "fas fa-clipboard",
+        "color": "#ff4500",
+        "url": "https://reddit.com"
+      },
+      {
+        "name": "Speed Dial",
+        "category": "Public",
+        "icon": "fas fa-tachometer-alt",
+        "color": "#ff4500",
+        "url": "https://reddit.com"
+      },
+      {
+        "name": "Plus TV",
+        "category": "Public",
+        "icon": "fas fa-plus-square",
+        "color": "#ff4500",
+        "url": "projects/iptv/plus_tv.html"
+      }
+    ]
+  },
   "search_engines": {
     "category_name": "Search Engines",
     "apps": [
