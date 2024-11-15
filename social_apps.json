@@ -1,4 +1,4 @@
-{ 
+{
   "for_developers": {
     "category_name": "For Developers",
     "apps": [
@@ -161,7 +161,7 @@
       }
     ]
   },
-  "Personal": {
+  "personal": {
     "category_name": "Personal",
     "apps": [
       {
@@ -228,7 +228,7 @@
         "url": "https://cracker2161.github.io/github-live-server/"
       }
     ]
-  }, 
+  },
   "social_media": {
     "category_name": "Social Media",
     "apps": [
