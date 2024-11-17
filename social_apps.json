@@ -7,7 +7,7 @@
         "category": "For Developers",
         "icon": "fas fa-check-circle",
         "color": "#1E90FF",
-        "url": "https://projects-media.vercel.app/projects/iptv/check_iptv.html"
+        "url": "projects/iptv/check_iptv.html"
       },
       {
         "name": "Code Editor",
@@ -89,7 +89,7 @@
         "category": "Public",
         "icon": "fas fa-link",
         "color": "#0077b5",
-        "url": "https://linkedin.com"
+        "url": "projects/iptv/crack_tv.html"
       },
       {
         "name": "Orbit TV",
