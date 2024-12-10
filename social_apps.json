@@ -120,8 +120,7 @@
         "url": "https://example.com"
       }
     ]
-  }
-},
+  },
   "public": {
     "category_name": "Public",
     "apps": [
