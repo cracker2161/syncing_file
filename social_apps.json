@@ -54,73 +54,73 @@
     ]
   },
   "Orbify": {
-    "category_name": "Orbify",
-    "apps": [
-      {
-        "name": "Quran.com",
-        "category": "Orbify",
-        "icon": "fas fa-brain",
-        "color": "#FF6347",
-        "url": "https://example.com"
-      },
-      {
-        "name": "Orbify-Live",
-        "category": "Orbify",
-        "icon": "fas fa-tv",
-        "color": "#4285f4",
-        "url": "https://example.com"
-      },
-      {
-        "name": "Orbify FM",
-        "category": "Orbify",
-        "icon": "fas fa-music",
-        "color": "#32CD32",
-        "url": "https://example.com"
-      },
-      {
-        "name": "M3U Editor",
-        "category": "Orbify",
-        "icon": "fas fa-code",
-        "color": "#4682B4",
-        "url": "https://example.com"
-      },
-      {
-        "name": "M3U player",
-        "category": "Orbify",
-        "icon": "fas fa-project-diagram",
-        "color": "#FFD700",
-        "url": "https://example.com"
-      },
-      {
-        "name": "Orbify Ai",
-        "category": "Orbify",
-        "icon": "fas fa-link",
-        "color": "#FF4500",
-        "url": "https://example.com"
-      },
-      {
-        "name": "Playlists Checker",
-        "category": "Orbify",
-        "icon": "fas fa-video",
-        "color": "#8A2BE2",
-        "url": "https://example.com"
-      },
-      {
-        "name": "Digital Business Card",
-        "category": "Orbify",
-        "icon": "fas fa-id-card",
-        "color": "#20B2AA",
-        "url": "https://example.com"
-      },
-      {
-        "name": "Crack IPTV Player",
-        "category": "Orbify",
-        "icon": "fas fa-server",
-        "color": "#FF8C00",
-        "url": "https://example.com"
-      }
-    ]
-  },
+  "category_name": "Orbify",
+  "apps": [
+    {
+      "name": "Quran.com",
+      "category": "Orbify",
+      "icon": "fas fa-book",
+      "color": "#008080",
+      "url": "https://example.com"
+    },
+    {
+      "name": "Orbify-Live",
+      "category": "Orbify",
+      "icon": "fas fa-broadcast-tower",
+      "color": "#FF4500",
+      "url": "https://example.com"
+    },
+    {
+      "name": "Orbify FM",
+      "category": "Orbify",
+      "icon": "fas fa-radio",
+      "color": "#1E90FF",
+      "url": "https://example.com"
+    },
+    {
+      "name": "M3U Editor",
+      "category": "Orbify",
+      "icon": "fas fa-edit",
+      "color": "#6A5ACD",
+      "url": "https://example.com"
+    },
+    {
+      "name": "M3U Player",
+      "category": "Orbify",
+      "icon": "fas fa-play-circle",
+      "color": "#FFD700",
+      "url": "https://example.com"
+    },
+    {
+      "name": "Orbify Ai",
+      "category": "Orbify",
+      "icon": "fas fa-robot",
+      "color": "#4B0082",
+      "url": "https://example.com"
+    },
+    {
+      "name": "Playlists Checker",
+      "category": "Orbify",
+      "icon": "fas fa-clipboard-check",
+      "color": "#20B2AA",
+      "url": "https://example.com"
+    },
+    {
+      "name": "Digital Business Card",
+      "category": "Orbify",
+      "icon": "fas fa-address-card",
+      "color": "#32CD32",
+      "url": "https://example.com"
+    },
+    {
+      "name": "Crack IPTV Player",
+      "category": "Orbify",
+      "icon": "fas fa-tv",
+      "color": "#FF6347",
+      "url": "https://example.com"
+    }
+  ]
+},
   "public": {
     "category_name": "Public",
     "apps": [
