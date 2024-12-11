@@ -61,63 +61,70 @@
       "category": "Orbify",
       "icon": "fas fa-book",
       "color": "#008080",
-      "url": "https://example.com"
+      "url": "https://bookmarks-web.netlify.app/projects/quran.com/"
     },
     {
       "name": "Orbify-Live",
       "category": "Orbify",
       "icon": "fas fa-broadcast-tower",
       "color": "#FF4500",
-      "url": "https://example.com"
+      "url": "https://orbify-live.blogspot.com/"
     },
     {
       "name": "Orbify FM",
       "category": "Orbify",
       "icon": "fas fa-radio",
       "color": "#1E90FF",
-      "url": "https://example.com"
+      "url": "https://bookmarks-web.netlify.app/projects/orbify-fm/"
     },
     {
-      "name": "M3U Editor",
+      "name": "M3U Maker",
       "category": "Orbify",
       "icon": "fas fa-edit",
       "color": "#6A5ACD",
-      "url": "https://example.com"
+      "url": "https://bookmarks-web.netlify.app/projects/M3U_Playlist_Maker/"
     },
     {
       "name": "M3U Player",
       "category": "Orbify",
       "icon": "fas fa-play-circle",
       "color": "#FFD700",
-      "url": "https://example.com"
+      "url": "https://bookmarks-web.netlify.app/projects/M3U_Player/"
     },
     {
       "name": "Orbify Ai",
       "category": "Orbify",
       "icon": "fas fa-robot",
       "color": "#4B0082",
-      "url": "https://example.com"
+      "url": "https://bookmarks-web.netlify.app/projects/orbit.ai/"
     },
     {
       "name": "Playlists Checker",
       "category": "Orbify",
       "icon": "fas fa-clipboard-check",
       "color": "#20B2AA",
-      "url": "https://example.com"
+      "url": "https://bookmarks-web.netlify.app/projects/m3u_playlist_checker/"
     },
     {
       "name": "Digital Business Card",
       "category": "Orbify",
       "icon": "fas fa-address-card",
       "color": "#32CD32",
-      "url": "https://example.com"
+      "url": "https://sultanarabi.netlify.app/"
     },
     {
-      "name": "Crack IPTV Player",
+        "name": "Code Editor",
+        "category": "Orbify",
+        "icon": "fas fa-code",
+        "color": "#4682B4",
+        "url": "https://bookmarks-web.netlify.app/projects/code_editor/"
+     },
+    {
+      "name": "Orbit Live",
       "category": "Orbify",
       "icon": "fas fa-tv",
       "color": "#FF6347",
-      "url": "https://example.com"
+      "url": "https://bookmarks-web.netlify.app/projects/orbit_live/"
     }
   ]
 },
@@ -784,4 +791,3 @@
     ]
   }
 }
-
