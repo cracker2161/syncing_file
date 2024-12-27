@@ -6,7 +6,7 @@
         "updateDate": "2024-12-25",
         "expireDate": "Unknown",
         "channels": "585+ Channels",
-        "quality": "HD/FHD",
+        "quality": "HD/FHD - Supported All Players",
         "url": "https://bookmarks-web.netlify.app/live/smart_4k.m3u",
         "credits": {
             "creator": "Rebron",
@@ -20,21 +20,21 @@
         "updateDate": "2024-12-26",
         "expireDate": "16-01-2024",
         "channels": "295 Channels",
-        "quality": "HD",
+        "quality": "HD - Supported All Players",
         "url": "https://bookmarks-web.netlify.app/live/woods_playlists.m3u",
         "credits": {
-            "creator": "woods",
+            "creator": "Woods",
             "updater": "Sultan Arabi"
         }
     },
     {
-        "title": "TATA - Supported All Players",
+        "title": "TATA - HD Playlist",
         "category": "Live TV",
         "image": "https://i.ibb.co.com/ssQNGh9/1000027006.webp",
         "updateDate": "2024-12-27",
         "expireDate": "Unknown",
         "channels": "5000+ Channels",
-        "quality": "HD",
+        "quality": "HD - Supported All Players",
         "url": "https://amitb3669.github.io/tatatv.m3u",
         "credits": {
             "creator": "Allinone",
