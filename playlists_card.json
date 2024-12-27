@@ -26,5 +26,20 @@
             "creator": "woods",
             "updater": "Sultan Arabi"
         }
+    },
+    {
+        "title": "TATA - Supported All Players",
+        "category": "Live TV",
+        "image": "https://i.ibb.co.com/ssQNGh9/1000027006.webp",
+        "updateDate": "2024-12-27",
+        "expireDate": "Unknown",
+        "channels": "5000+ Channels",
+        "quality": "HD",
+        "url": "https://amitb3669.github.io/tatatv.m3u",
+        "credits": {
+            "creator": "Allinone",
+            "updater": "Sultan Arabi"
+        }
     }
+
 ]
