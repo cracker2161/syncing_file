@@ -1,5 +1,19 @@
 [
     {
+        "title": "Watch india",
+        "category": "Live TV",
+        "image": "https://i.ibb.co.com/ssQNGh9/1000027006.webp",
+        "updateDate": "2024-12-28",
+        "expireDate": "20-02-2025",
+        "channels": "155 Channels",
+        "quality": "HD/FHD -http Supported All Players",
+        "url": "https://bookmarks-web.netlify.app/live/watch_india_february.m3u",
+        "credits": {
+            "creator": "Unknown",
+            "updater": "Sultan Arabi"
+        }
+    },
+    {
         "title": "Premium Smart 4k",
         "category": "TV Channels",
         "image": "https://i.ibb.co.com/ssQNGh9/1000027006.webp",
