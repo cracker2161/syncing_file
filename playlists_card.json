@@ -1,5 +1,19 @@
 [
     {
+        "title": "TATA",
+        "category": "Live TV",
+        "image": "https://i.ibb.co.com/ssQNGh9/1000027006.webp",
+        "updateDate": "2025-01-10",
+        "expireDate": "Unknown",
+        "channels": "1203 + Channels",
+        "quality": "HD/FHD -http Supported All Players",
+        "url": "https://m3u.ch/pl/41958046167106117ca09d401f06ddff_e11cf81a823a5eb9a30c53b2da4a91dd.m3u",
+        "credits": {
+            "creator": "Collected",
+            "updater": "Sultan Arabi"
+        }
+    },
+    {
         "title": "Unknown",
         "category": "Live TV",
         "image": "https://i.ibb.co.com/ssQNGh9/1000027006.webp",
