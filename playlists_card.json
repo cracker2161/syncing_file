@@ -1,5 +1,19 @@
 [
     {
+        "title": "J Play",
+        "category": "Live TV",
+        "image": "https://i.ibb.co.com/ssQNGh9/1000027006.webp",
+        "updateDate": "23-01-2025",
+        "expireDate": "Unknown",
+        "channels": "1133 + Channels",
+        "quality": "HD/FHD -Use OTT Navigator",
+        "url": "https://spoo.me/Jsplaylivm3",
+        "credits": {
+            "creator": "Collected",
+            "updater": "Sultan Arabi"
+        }
+    },
+    {
         "title": "TATA",
         "category": "Live TV",
         "image": "https://i.ibb.co.com/ssQNGh9/1000027006.webp",
@@ -83,5 +97,4 @@
             "updater": "Sultan Arabi"
         }
     }
-
 ]
